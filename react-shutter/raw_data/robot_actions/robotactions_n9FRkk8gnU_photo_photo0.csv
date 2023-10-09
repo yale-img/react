@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+n9FRkk8gnU,photo_photo0,-0.0034513473510742,4.986618995666504,joke,{'msg': 'What do robots wear in winter? Re-boots.'}
+n9FRkk8gnU,photo_photo0,7.045613050460815,12.191751956939695,follow,{}
+n9FRkk8gnU,photo_photo0,14.250006675720217,16.52071499824524,resting,{}
+n9FRkk8gnU,photo_photo0,18.613117933273315,24.805859565734863,joke,{'msg': 'What camera do polar bears love? Polaroids.'}
+n9FRkk8gnU,photo_photo0,26.86821675300598,35.895620584487915,photo,{}
+n9FRkk8gnU,photo_photo0,35.900431394577026,39.64148736000061,taking photo,{}
+n9FRkk8gnU,photo_photo0,39.64148736000061,46.12494134902954,eval photo,{}
+n9FRkk8gnU,photo_photo0,46.12494134902954,55.02316117286682,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+n9FRkk8gnU,photo_photo0,55.02316117286682,62.2411539554596,shutter rests,{'msg': 'I will rest and wait for you here.'}

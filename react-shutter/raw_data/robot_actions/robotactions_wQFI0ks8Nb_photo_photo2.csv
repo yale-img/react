@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+wQFI0ks8Nb,photo_photo2,7.5834033489227295,12.784664392471312,relax,"{'msg': ""Don't worry. You will look great.""}"
+wQFI0ks8Nb,photo_photo2,14.033400297164915,19.194007396698,follow,{}
+wQFI0ks8Nb,photo_photo2,21.26107335090637,23.126075744628903,smile,{'msg': 'Smile!'}
+wQFI0ks8Nb,photo_photo2,25.185197830200195,30.80410647392273,joke,{'msg': 'Where did the robot go on vacation? Bots-wana.'}
+wQFI0ks8Nb,photo_photo2,32.86564779281616,39.70321726799011,photo,{}
+wQFI0ks8Nb,photo_photo2,39.70347809791565,43.83445763587952,taking photo,{}
+wQFI0ks8Nb,photo_photo2,43.83445763587952,49.28804087638855,eval photo,{}
+wQFI0ks8Nb,photo_photo2,49.28804087638855,58.392146825790405,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+wQFI0ks8Nb,photo_photo2,58.392146825790405,66.08998012542725,shutter rests,{'msg': 'I will rest and wait for you here.'}

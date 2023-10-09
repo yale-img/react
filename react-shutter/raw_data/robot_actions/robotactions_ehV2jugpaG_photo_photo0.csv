@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+ehV2jugpaG,photo_photo0,-0.0003416538238525,5.147981405258179,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+ehV2jugpaG,photo_photo0,7.207609415054321,13.100300550460815,follow,{}
+ehV2jugpaG,photo_photo0,14.415183782577516,20.805639266967773,joke,{'msg': 'What do you call a robot which drives a car? A road-bot.'}
+ehV2jugpaG,photo_photo0,22.899484872817997,28.05042123794556,perturbation,"{'horizontal': 0.39269908169872414, 'vertical': 0.0}"
+ehV2jugpaG,photo_photo0,30.11198139190674,37.38078141212464,photo,{}
+ehV2jugpaG,photo_photo0,37.38131237030029,43.12115168571472,taking photo,{}
+ehV2jugpaG,photo_photo0,43.12115168571472,48.55056285858154,eval photo,{}
+ehV2jugpaG,photo_photo0,48.55056285858154,58.032190799713135,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+ehV2jugpaG,photo_photo0,58.032190799713135,66.11648511886597,shutter rests,{'msg': 'I will rest and wait for you here.'}

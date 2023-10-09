@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+XXqlRG8OCY,whole_photo0,-5.364418029785156e-05,5.016916275024414,follow,{}
+XXqlRG8OCY,whole_photo0,7.087441921234131,15.58377480506897,joke,"{'msg': 'Why was the robot embarrassed? He had software and hardware, but no underwear.'}"
+XXqlRG8OCY,whole_photo0,17.65710949897766,22.841790676116943,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+XXqlRG8OCY,whole_photo0,24.912211894989014,34.24849367141724,joke,{'msg': 'Why was the unpredictable photographer not invited to any event? Everyone thought he was a loose Canon.'}
+XXqlRG8OCY,whole_photo0,36.32050371170044,44.8820104598999,photo,{}
+XXqlRG8OCY,whole_photo0,44.88227581977844,48.82781791687012,taking photo,{}
+XXqlRG8OCY,whole_photo0,48.82781791687012,53.20454430580139,eval photo,{}
+XXqlRG8OCY,whole_photo0,53.20454430580139,57.60102891921997,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+XXqlRG8OCY,whole_photo0,57.60102891921997,65.48362135887146,shutter rests,{'msg': 'I will rest and wait for you here.'}

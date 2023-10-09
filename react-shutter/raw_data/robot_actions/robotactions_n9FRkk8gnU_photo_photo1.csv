@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+n9FRkk8gnU,photo_photo1,5.787517547607422,11.837300062179564,follow,{}
+n9FRkk8gnU,photo_photo1,13.039432764053345,15.513036966323853,look_at_button,{}
+n9FRkk8gnU,photo_photo1,17.577378034591675,25.834132432937626,joke,"{'msg': ""Why did the camera stop dreaming about a career in photography? He couldn't remain focused.""}"
+n9FRkk8gnU,photo_photo1,28.4580500125885,32.08162450790405,relax,"{'msg': ""Don't worry. You will look great.""}"
+n9FRkk8gnU,photo_photo1,34.150933027267456,41.2278470993042,photo,{}
+n9FRkk8gnU,photo_photo1,41.22896885871887,46.39502167701721,taking photo,{}
+n9FRkk8gnU,photo_photo1,46.39502167701721,53.83902955055237,eval photo,{}
+n9FRkk8gnU,photo_photo1,53.83902955055237,63.58930349349976,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+n9FRkk8gnU,photo_photo1,63.58930349349976,71.00481820106506,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+r1i29K0hdz,photo_photo2,7.232780933380127,12.89971137046814,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+r1i29K0hdz,photo_photo2,14.76968264579773,19.25980496406555,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+r1i29K0hdz,photo_photo2,21.33235454559326,23.60902690887451,resting,{}
+r1i29K0hdz,photo_photo2,25.67179250717163,34.573065996170044,joke,"{'msg': 'I was bored, so I made a robot that distributes herbs. It helped pass the thyme.'}"
+r1i29K0hdz,photo_photo2,36.14442324638367,44.22093915939331,photo,{}
+r1i29K0hdz,photo_photo2,44.231284618377686,48.372249364852905,taking photo,{}
+r1i29K0hdz,photo_photo2,48.372249364852905,52.601661920547485,eval photo,{}
+r1i29K0hdz,photo_photo2,52.601661920547485,61.605674028396606,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+r1i29K0hdz,photo_photo2,61.605674028396606,69.67430067062378,shutter rests,{'msg': 'I will rest and wait for you here.'}

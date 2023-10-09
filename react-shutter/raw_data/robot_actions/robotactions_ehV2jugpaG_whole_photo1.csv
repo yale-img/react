@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+ehV2jugpaG,whole_photo1,6.06420636177063,7.108536005020142,resting,{}
+ehV2jugpaG,whole_photo1,9.178959369659424,12.495482683181764,relax,"{'msg': ""Relax, I won't judge.""}"
+ehV2jugpaG,whole_photo1,14.611517667770386,20.95849895477295,joke,{'msg': 'Why did the robot go back to school? Her skills were a little rusty.'}
+ehV2jugpaG,whole_photo1,23.03193688392639,28.21090269088745,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+ehV2jugpaG,whole_photo1,30.28638482093811,38.39538908004761,photo,{}
+ehV2jugpaG,whole_photo1,38.39610433578491,42.78158831596375,taking photo,{}
+ehV2jugpaG,whole_photo1,42.78158831596375,50.66216015815735,eval photo,{}
+ehV2jugpaG,whole_photo1,50.66216015815735,55.25921559333801,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+ehV2jugpaG,whole_photo1,55.25921559333801,63.55739402770996,shutter rests,{'msg': 'I will rest and wait for you here.'}

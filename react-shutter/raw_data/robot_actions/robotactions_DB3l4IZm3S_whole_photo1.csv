@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+DB3l4IZm3S,whole_photo1,6.232451677322388,11.236618757247925,perturbation,"{'horizontal': 0.39269908169872414, 'vertical': 0.0}"
+DB3l4IZm3S,whole_photo1,13.311344146728516,21.182705879211422,joke,"{'msg': 'I was bored, so I made a robot that distributes herbs. It helped pass the thyme.'}"
+DB3l4IZm3S,whole_photo1,23.254575967788696,25.122246265411377,mid,{}
+DB3l4IZm3S,whole_photo1,27.200032472610477,29.070807933807373,smile,{'msg': 'Smile!'}
+DB3l4IZm3S,whole_photo1,31.13999652862549,39.27886772155762,photo,{}
+DB3l4IZm3S,whole_photo1,39.27933311462402,43.22079825401306,taking photo,{}
+DB3l4IZm3S,whole_photo1,43.22079825401306,48.83285975456238,eval photo,{}
+DB3l4IZm3S,whole_photo1,48.83285975456238,53.94540071487427,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+DB3l4IZm3S,whole_photo1,53.94540071487427,60.88400626182556,shutter rests,{'msg': 'I will rest and wait for you here.'}

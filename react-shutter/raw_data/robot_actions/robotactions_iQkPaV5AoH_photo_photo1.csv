@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+iQkPaV5AoH,photo_photo1,5.786237955093384,11.169151067733765,joke,{'msg': 'Where did the robot go on vacation? Bots-wana.'}
+iQkPaV5AoH,photo_photo1,13.27355432510376,15.139633178710938,smile,{'msg': 'Say cheese.'}
+iQkPaV5AoH,photo_photo1,17.207086086273193,22.36497402191162,follow,{}
+iQkPaV5AoH,photo_photo1,24.426677703857425,31.49221658706665,joke,{'msg': 'What do robots read in book club? Harry Potter and the Goblet of Wire.'}
+iQkPaV5AoH,photo_photo1,33.557836294174194,41.43765449523926,photo,{}
+iQkPaV5AoH,photo_photo1,41.43826127052307,45.77070927619934,taking photo,{}
+iQkPaV5AoH,photo_photo1,45.77070927619934,51.82801342010498,eval photo,{}
+iQkPaV5AoH,photo_photo1,51.82801342010498,60.265252351760864,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+iQkPaV5AoH,photo_photo1,60.265252351760864,67.75001168251038,shutter rests,{'msg': 'I will rest and wait for you here.'}

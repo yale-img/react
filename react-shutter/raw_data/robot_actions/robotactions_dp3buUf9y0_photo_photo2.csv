@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+dp3buUf9y0,photo_photo2,6.824064016342163,15.32240867614746,joke,"{'msg': ""Why did the boy never try to become a professional photographer? He just couldn't picture himself being one.""}"
+dp3buUf9y0,photo_photo2,17.384549856185913,22.53582334518433,follow,{}
+dp3buUf9y0,photo_photo2,24.59974956512451,30.592339992523197,joke,{'msg': 'Why did the robot fail his exam? He was a bit rusty.'}
+dp3buUf9y0,photo_photo2,32.69289350509644,34.45236277580261,mid,{}
+dp3buUf9y0,photo_photo2,37.07281136512756,43.957664012908936,photo,{}
+dp3buUf9y0,photo_photo2,43.95792555809021,48.244844913482666,taking photo,{}
+dp3buUf9y0,photo_photo2,48.244844913482666,54.33280372619629,eval photo,{}
+dp3buUf9y0,photo_photo2,54.33280372619629,63.60944485664368,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+dp3buUf9y0,photo_photo2,63.60944485664368,70.8745789527893,shutter rests,{'msg': 'I will rest and wait for you here.'}

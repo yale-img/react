@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+moRSMiJDRW,whole_photo0,-2.6226043701171875e-06,2.083632230758667,smile,{'msg': 'Look happy.'}
+moRSMiJDRW,whole_photo0,4.208987236022949,10.31355333328247,joke,{'msg': 'Why was the robot dog itchy? He had robo-ticks.'}
+moRSMiJDRW,whole_photo0,12.381731986999512,17.390098571777344,follow,{}
+moRSMiJDRW,whole_photo0,19.46218061447144,22.985342979431152,up,{}
+moRSMiJDRW,whole_photo0,25.056060791015625,33.79788517951965,photo,{}
+moRSMiJDRW,whole_photo0,33.79824948310852,38.35686659812927,taking photo,{}
+moRSMiJDRW,whole_photo0,38.35686659812927,45.65733122825623,eval photo,{}
+moRSMiJDRW,whole_photo0,45.65733122825623,50.64764332771301,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+moRSMiJDRW,whole_photo0,50.64764332771301,58.77269887924194,shutter rests,{'msg': 'I will rest and wait for you here.'}

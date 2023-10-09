@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+iQkPaV5AoH,photo_photo2,6.853743314743042,12.00400424003601,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+iQkPaV5AoH,photo_photo2,14.067335844039915,20.473089456558228,joke,"{'msg': ""What did the robot's friends say at his funeral? Rust in peace.""}"
+iQkPaV5AoH,photo_photo2,22.574630737304688,27.736807584762573,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+iQkPaV5AoH,photo_photo2,29.8001492023468,40.51650142669678,joke,{'msg': 'What did the photographer say to his assistant at the photoshoot when he was frustrated? I feel like I will snap at any moment.'}
+iQkPaV5AoH,photo_photo2,42.58349800109863,50.61482834815979,photo,{}
+iQkPaV5AoH,photo_photo2,50.61593723297119,54.33715796470642,taking photo,{}
+iQkPaV5AoH,photo_photo2,54.33715796470642,60.54143261909485,eval photo,{}
+iQkPaV5AoH,photo_photo2,60.54143261909485,69.26831531524658,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+iQkPaV5AoH,photo_photo2,69.26831531524658,76.91238188743591,shutter rests,{'msg': 'I will rest and wait for you here.'}

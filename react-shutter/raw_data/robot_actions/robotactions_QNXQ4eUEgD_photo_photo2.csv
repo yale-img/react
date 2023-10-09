@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+QNXQ4eUEgD,photo_photo2,7.931045770645142,12.400965213775637,follow,{}
+QNXQ4eUEgD,photo_photo2,14.471708536148071,17.989927291870117,relax,"{'msg': ""Relax, I won't judge.""}"
+QNXQ4eUEgD,photo_photo2,20.09709906578064,26.50925374031067,joke,{'msg': 'Why are robots never afraid? They have nerves of steel.'}
+QNXQ4eUEgD,photo_photo2,28.57255268096924,33.72962760925293,follow,{}
+QNXQ4eUEgD,photo_photo2,35.8268609046936,44.12924480438232,photo,{}
+QNXQ4eUEgD,photo_photo2,44.129690408706665,48.46715831756592,taking photo,{}
+QNXQ4eUEgD,photo_photo2,48.46715831756592,53.85590171813965,eval photo,{}
+QNXQ4eUEgD,photo_photo2,53.85590171813965,62.78736400604248,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+QNXQ4eUEgD,photo_photo2,62.78736400604248,71.0622124671936,shutter rests,{'msg': 'I will rest and wait for you here.'}

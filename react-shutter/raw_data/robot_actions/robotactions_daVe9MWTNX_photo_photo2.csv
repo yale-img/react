@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+daVe9MWTNX,photo_photo2,6.865180253982544,9.548858165740969,look_at_button,{}
+daVe9MWTNX,photo_photo2,11.615214109420776,13.89180612564087,smile,{'msg': 'Smile!'}
+daVe9MWTNX,photo_photo2,15.95942449569702,22.203118324279785,joke,{'msg': 'What do you call a robot that always runs into walls? Wall-E.'}
+daVe9MWTNX,photo_photo2,24.273202657699585,29.431354761123657,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+daVe9MWTNX,photo_photo2,31.494527339935303,40.01443767547608,photo,{}
+daVe9MWTNX,photo_photo2,40.01514101028442,44.15184998512268,taking photo,{}
+daVe9MWTNX,photo_photo2,44.15184998512268,51.01264190673828,eval photo,{}
+daVe9MWTNX,photo_photo2,51.01264190673828,59.28364396095276,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+daVe9MWTNX,photo_photo2,59.28364396095276,66.52458143234253,shutter rests,{'msg': 'I will rest and wait for you here.'}

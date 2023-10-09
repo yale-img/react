@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+84s1fgNhyB,photo_photo1,6.045565366744995,11.20564341545105,follow,{}
+84s1fgNhyB,photo_photo1,13.26569366455078,15.128360033035278,smile,{'msg': 'Smile!'}
+84s1fgNhyB,photo_photo1,17.189876794815063,22.401576042175293,joke,"{'msg': ""Why did the robot get married? He couldn't resistor.""}"
+84s1fgNhyB,photo_photo1,24.46350932121277,29.629576683044437,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+84s1fgNhyB,photo_photo1,31.8103301525116,40.03597044944763,photo,{}
+84s1fgNhyB,photo_photo1,40.04604148864746,44.17427897453308,taking photo,{}
+84s1fgNhyB,photo_photo1,44.17427897453308,50.56983184814453,eval photo,{}
+84s1fgNhyB,photo_photo1,50.56983184814453,58.85494923591614,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+84s1fgNhyB,photo_photo1,58.85494923591614,66.153475522995,shutter rests,{'msg': 'I will rest and wait for you here.'}

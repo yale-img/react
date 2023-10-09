@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+IECZtUKPMk,photo_photo0,-0.0035555362701416,2.0454795360565186,resting,{}
+IECZtUKPMk,photo_photo0,4.109847068786621,14.828706741333008,joke,{'msg': 'Why do cameras who are self-obsessed take a lot of photos that have a blurred background? They like to keep the focus on themselves.'}
+IECZtUKPMk,photo_photo0,16.927441358566284,22.080623865127563,follow,{}
+IECZtUKPMk,photo_photo0,24.13664746284485,29.290441036224365,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+IECZtUKPMk,photo_photo0,31.35320234298706,40.47650194168091,photo,{}
+IECZtUKPMk,photo_photo0,40.47897124290466,45.24388575553894,taking photo,{}
+IECZtUKPMk,photo_photo0,45.24388575553894,50.166868448257446,eval photo,{}
+IECZtUKPMk,photo_photo0,50.166868448257446,59.49613618850708,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+IECZtUKPMk,photo_photo0,59.49613618850708,67.32678580284119,shutter rests,{'msg': 'I will rest and wait for you here.'}

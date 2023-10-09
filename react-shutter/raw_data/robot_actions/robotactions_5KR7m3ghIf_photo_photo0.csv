@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+5KR7m3ghIf,photo_photo0,-0.0002191066741943,3.1209304332733154,resting,{}
+5KR7m3ghIf,photo_photo0,4.3572328090667725,9.506004095077516,follow,{}
+5KR7m3ghIf,photo_photo0,11.565905570983888,16.934191942214966,joke,"{'msg': ""What is a baby robot's first word? Data.""}"
+5KR7m3ghIf,photo_photo0,19.025505781173703,24.175541639328003,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+5KR7m3ghIf,photo_photo0,26.53070855140686,35.12174963951111,photo,{}
+5KR7m3ghIf,photo_photo0,35.13703203201294,39.71177124977112,taking photo,{}
+5KR7m3ghIf,photo_photo0,39.71177124977112,47.752713203430176,eval photo,{}
+5KR7m3ghIf,photo_photo0,47.752713203430176,57.0612313747406,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+5KR7m3ghIf,photo_photo0,57.0612313747406,65.31723999977112,shutter rests,{'msg': 'I will rest and wait for you here.'}

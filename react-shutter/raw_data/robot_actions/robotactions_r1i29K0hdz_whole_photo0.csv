@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+r1i29K0hdz,whole_photo0,-0.0047559738159179,3.497210502624512,relax,"{'msg': ""Relax, I won't judge.""}"
+r1i29K0hdz,whole_photo0,6.186078071594238,10.555835247039797,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+r1i29K0hdz,whole_photo0,12.626821279525757,17.400766372680664,relax,"{'msg': ""Don't worry. You will look great.""}"
+r1i29K0hdz,whole_photo0,19.47233366966248,25.936275005340576,joke,{'msg': 'What kind of photos do lobsters take the most? Shellfies.'}
+r1i29K0hdz,whole_photo0,28.00558280944824,36.96463084220886,photo,{}
+r1i29K0hdz,whole_photo0,36.9649612903595,40.90692138671875,taking photo,{}
+r1i29K0hdz,whole_photo0,40.90692138671875,47.7515594959259,eval photo,{}
+r1i29K0hdz,whole_photo0,47.7515594959259,52.5213520526886,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+r1i29K0hdz,whole_photo0,52.5213520526886,59.81700944900513,shutter rests,{'msg': 'I will rest and wait for you here.'}

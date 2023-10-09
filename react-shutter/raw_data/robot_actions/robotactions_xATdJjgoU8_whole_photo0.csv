@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xATdJjgoU8,whole_photo0,-0.000270128250122,1.33701753616333,mid,{}
+xATdJjgoU8,whole_photo0,3.1122424602508545,11.801506996154783,joke,"{'msg': ""Why did the boy never try to become a professional photographer? He just couldn't picture himself being one.""}"
+xATdJjgoU8,whole_photo0,13.873161554336548,17.38922882080078,up,{}
+xATdJjgoU8,whole_photo0,19.45805191993713,25.88527774810791,joke,{'msg': 'What do you call a frozen droid? An ice-borg.'}
+xATdJjgoU8,whole_photo0,27.16820526123047,35.70983266830444,photo,{}
+xATdJjgoU8,whole_photo0,35.710123777389526,39.85458159446716,taking photo,{}
+xATdJjgoU8,whole_photo0,39.85458159446716,46.58876395225525,eval photo,{}
+xATdJjgoU8,whole_photo0,46.58876395225525,51.56056523323059,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xATdJjgoU8,whole_photo0,51.56056523323059,58.92043876647949,shutter rests,{'msg': 'I will rest and wait for you here.'}

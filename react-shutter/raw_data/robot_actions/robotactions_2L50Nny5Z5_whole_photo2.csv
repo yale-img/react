@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+2L50Nny5Z5,whole_photo2,7.151097774505615,14.86701202392578,joke,"{'msg': 'Why was the robot embarrassed? He had software and hardware, but no underwear.'}"
+2L50Nny5Z5,whole_photo2,17.46350908279419,19.23043155670166,smile,{'msg': 'Say cheese.'}
+2L50Nny5Z5,whole_photo2,21.3009614944458,26.318952798843384,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+2L50Nny5Z5,whole_photo2,28.3920738697052,35.70724701881409,joke,{'msg': 'What do robots read in book club? Harry Potter and the Goblet of Wire.'}
+2L50Nny5Z5,whole_photo2,37.78140449523926,45.99840688705444,photo,{}
+2L50Nny5Z5,whole_photo2,46.00111365318298,50.4054069519043,taking photo,{}
+2L50Nny5Z5,whole_photo2,50.4054069519043,56.22716665267944,eval photo,{}
+2L50Nny5Z5,whole_photo2,56.22716665267944,60.61875510215759,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+2L50Nny5Z5,whole_photo2,60.61875510215759,68.70085906982422,shutter rests,{'msg': 'I will rest and wait for you here.'}

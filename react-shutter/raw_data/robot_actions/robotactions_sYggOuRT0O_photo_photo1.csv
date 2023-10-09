@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+sYggOuRT0O,photo_photo1,6.209323406219482,11.591314315795898,joke,{'msg': 'Why did the robot sneeze? She had a virus.'}
+sYggOuRT0O,photo_photo1,13.9958655834198,16.384868621826172,look_at_button,{}
+sYggOuRT0O,photo_photo1,18.456961154937744,24.2034375667572,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+sYggOuRT0O,photo_photo1,26.32420372962952,31.8824245929718,joke,{'msg': 'What kind of photos do lobsters take the most? Shellfies.'}
+sYggOuRT0O,photo_photo1,33.947508811950684,42.43664193153381,photo,{}
+sYggOuRT0O,photo_photo1,42.43696713447571,46.57023549079895,taking photo,{}
+sYggOuRT0O,photo_photo1,46.57023549079895,53.87366843223572,eval photo,{}
+sYggOuRT0O,photo_photo1,53.87366843223572,62.109689712524414,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+sYggOuRT0O,photo_photo1,62.109689712524414,69.79069423675537,shutter rests,{'msg': 'I will rest and wait for you here.'}

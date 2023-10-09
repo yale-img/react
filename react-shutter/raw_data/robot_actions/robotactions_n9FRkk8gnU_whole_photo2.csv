@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+n9FRkk8gnU,whole_photo2,7.303981781005859,9.184303283691406,smile,{'msg': 'Look happy.'}
+n9FRkk8gnU,whole_photo2,11.257951974868774,16.432846784591675,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+n9FRkk8gnU,whole_photo2,18.5041606426239,28.22530150413513,joke,{'msg': 'Why was the fish picked as the lead photographer for the camera campaign? He had a great fish eye lens.'}
+n9FRkk8gnU,whole_photo2,29.710608959198,34.726938009262085,follow,{}
+n9FRkk8gnU,whole_photo2,36.799864292144775,43.86860132217407,photo,{}
+n9FRkk8gnU,whole_photo2,43.86913704872131,47.8521249294281,taking photo,{}
+n9FRkk8gnU,whole_photo2,47.8521249294281,54.525556802749634,eval photo,{}
+n9FRkk8gnU,whole_photo2,54.525556802749634,57.81778621673584,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+n9FRkk8gnU,whole_photo2,57.81778621673584,65.9119131565094,shutter rests,{'msg': 'I will rest and wait for you here.'}

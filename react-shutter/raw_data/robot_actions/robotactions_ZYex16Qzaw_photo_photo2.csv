@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+ZYex16Qzaw,photo_photo2,7.036256074905396,9.73957061767578,mid,{}
+ZYex16Qzaw,photo_photo2,11.629849672317505,19.690321683883667,joke,{'msg': 'What did the photographer say to his wife before they were married? I can really picture us together.'}
+ZYex16Qzaw,photo_photo2,21.755247116088867,26.92068099975586,follow,{}
+ZYex16Qzaw,photo_photo2,29.029072523117065,38.32571506500244,joke,"{'msg': ""Why does nobody like photographers that always keep their camera light on? Everyone thinks that they're too flashy.""}"
+ZYex16Qzaw,photo_photo2,40.38969230651856,49.161616802215576,photo,{}
+ZYex16Qzaw,photo_photo2,49.18186926841736,52.64276766777039,taking photo,{}
+ZYex16Qzaw,photo_photo2,52.64276766777039,58.23003005981445,eval photo,{}
+ZYex16Qzaw,photo_photo2,58.23003005981445,67.35773539543152,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+ZYex16Qzaw,photo_photo2,67.35773539543152,74.8106005191803,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+dp3buUf9y0,whole_photo1,6.267583608627319,11.439724445343018,follow,{}
+dp3buUf9y0,whole_photo1,13.550343990325928,21.221189498901367,joke,{'msg': 'Why did the robot take a train up the mountain? He thought it would be a hard drive.'}
+dp3buUf9y0,whole_photo1,22.87753987312317,25.16201376914978,look_at_button,{}
+dp3buUf9y0,whole_photo1,27.338783979415894,34.47855281829834,joke,{'msg': 'Why do robots make bad teachers? They just drone on and on.'}
+dp3buUf9y0,whole_photo1,36.551833152771,43.94290351867676,photo,{}
+dp3buUf9y0,whole_photo1,43.94331073760986,49.12371563911438,taking photo,{}
+dp3buUf9y0,whole_photo1,49.12371563911438,56.56094264984131,eval photo,{}
+dp3buUf9y0,whole_photo1,56.56094264984131,59.993719816207886,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+dp3buUf9y0,whole_photo1,59.993719816207886,67.71394610404968,shutter rests,{'msg': 'I will rest and wait for you here.'}

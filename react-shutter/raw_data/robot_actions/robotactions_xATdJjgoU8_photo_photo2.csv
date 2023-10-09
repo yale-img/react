@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xATdJjgoU8,photo_photo2,6.83495569229126,12.464701175689695,joke,{'msg': 'Where did the robot go on vacation? Bots-wana.'}
+xATdJjgoU8,photo_photo2,14.528345823287964,19.698913097381592,follow,{}
+xATdJjgoU8,photo_photo2,21.76587724685669,27.55504512786865,joke,"{'msg': ""What is a robot's favorite music genre? Heavy metal.""}"
+xATdJjgoU8,photo_photo2,29.659379959106445,34.81756782531738,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+xATdJjgoU8,photo_photo2,36.88451147079468,43.93186616897583,photo,{}
+xATdJjgoU8,photo_photo2,43.931885957717896,48.07268667221069,taking photo,{}
+xATdJjgoU8,photo_photo2,48.07268667221069,52.46691918373108,eval photo,{}
+xATdJjgoU8,photo_photo2,52.46691918373108,60.94496464729309,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xATdJjgoU8,photo_photo2,60.94496464729309,68.85485219955444,shutter rests,{'msg': 'I will rest and wait for you here.'}

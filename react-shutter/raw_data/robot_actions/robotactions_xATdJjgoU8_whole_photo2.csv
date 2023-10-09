@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xATdJjgoU8,whole_photo2,7.05545711517334,8.843849897384644,smile,{'msg': 'Look happy.'}
+xATdJjgoU8,whole_photo2,10.9157817363739,16.0890531539917,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+xATdJjgoU8,whole_photo2,18.16448974609375,23.17547583580017,follow,{}
+xATdJjgoU8,whole_photo2,25.251203060150143,31.26331615447998,joke,{'msg': 'What kind of robot lives in Alaska? Snow-bots.'}
+xATdJjgoU8,whole_photo2,33.37494349479675,40.02086663246155,photo,{}
+xATdJjgoU8,whole_photo2,40.02193760871887,44.37448334693909,taking photo,{}
+xATdJjgoU8,whole_photo2,44.37448334693909,52.04569983482361,eval photo,{}
+xATdJjgoU8,whole_photo2,52.04569983482361,56.60869455337525,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xATdJjgoU8,whole_photo2,56.60869455337525,64.32639741897583,shutter rests,{'msg': 'I will rest and wait for you here.'}

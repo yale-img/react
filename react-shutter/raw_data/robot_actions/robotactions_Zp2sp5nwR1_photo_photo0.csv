@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+Zp2sp5nwR1,photo_photo0,-5.269050598144531e-05,5.150704622268677,follow,{}
+Zp2sp5nwR1,photo_photo0,7.216307401657104,13.40758180618286,joke,{'msg': 'What do you call a robot that likes to row? A row-bot.'}
+Zp2sp5nwR1,photo_photo0,15.511310815811155,17.77952814102173,look_at_button,{}
+Zp2sp5nwR1,photo_photo0,19.838965892791748,24.384050607681274,relax,"{'msg': ""Don't worry. You will look great.""}"
+Zp2sp5nwR1,photo_photo0,26.44475769996643,34.94487953186035,photo,{}
+Zp2sp5nwR1,photo_photo0,34.94521880149841,40.09744954109192,taking photo,{}
+Zp2sp5nwR1,photo_photo0,40.09744954109192,48.5424907207489,eval photo,{}
+Zp2sp5nwR1,photo_photo0,48.5424907207489,57.03636121749878,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+Zp2sp5nwR1,photo_photo0,57.03636121749878,65.33124279975891,shutter rests,{'msg': 'I will rest and wait for you here.'}

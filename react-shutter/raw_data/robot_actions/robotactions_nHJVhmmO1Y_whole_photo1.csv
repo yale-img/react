@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+nHJVhmmO1Y,whole_photo1,6.637665033340454,14.944570302963257,joke,"{'msg': ""Why did the camera stop dreaming about a career in photography? He couldn't remain focused.""}"
+nHJVhmmO1Y,whole_photo1,17.01569175720215,18.09202527999878,resting,{}
+nHJVhmmO1Y,whole_photo1,20.166489362716675,25.347930431365967,follow,{}
+nHJVhmmO1Y,whole_photo1,27.419204473495483,29.70785856246948,smile,{'msg': 'Say cheese.'}
+nHJVhmmO1Y,whole_photo1,31.823776960372925,40.94786071777344,photo,{}
+nHJVhmmO1Y,whole_photo1,40.95301699638367,44.94580292701721,taking photo,{}
+nHJVhmmO1Y,whole_photo1,44.94580292701721,50.963377475738525,eval photo,{}
+nHJVhmmO1Y,whole_photo1,50.963377475738525,56.21577668190002,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+nHJVhmmO1Y,whole_photo1,56.21577668190002,63.36137127876282,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+daVe9MWTNX,whole_photo1,6.83522367477417,12.015610456466677,follow,{}
+daVe9MWTNX,whole_photo1,15.00851845741272,22.616642713546756,joke,"{'msg': ""Why is it okay to make embarrassing jokes about your camera? They'll all disappear in a flash.""}"
+daVe9MWTNX,whole_photo1,24.68431258201599,28.136638402938843,up,{}
+daVe9MWTNX,whole_photo1,30.74284148216248,32.171844720840454,smile,{'msg': 'Smile!'}
+daVe9MWTNX,whole_photo1,34.239707946777344,42.57985496520996,photo,{}
+daVe9MWTNX,whole_photo1,42.580798864364624,46.742902517318726,taking photo,{}
+daVe9MWTNX,whole_photo1,46.742902517318726,52.99830031394959,eval photo,{}
+daVe9MWTNX,whole_photo1,52.99830031394959,56.93366146087647,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+daVe9MWTNX,whole_photo1,56.93366146087647,64.62784194946289,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+g68W6Snw8X,whole_photo2,7.473127365112305,12.89262866973877,joke,"{'msg': ""Why did the robot get married? He couldn't resistor.""}"
+g68W6Snw8X,whole_photo2,14.965271711349487,20.156416416168213,follow,{}
+g68W6Snw8X,whole_photo2,22.2278745174408,24.30250072479248,smile,{'msg': 'Say cheese.'}
+g68W6Snw8X,whole_photo2,26.373806476593018,29.90743899345398,up,{}
+g68W6Snw8X,whole_photo2,32.01782035827637,40.31408333778381,photo,{}
+g68W6Snw8X,whole_photo2,40.31444048881531,44.49174642562866,taking photo,{}
+g68W6Snw8X,whole_photo2,44.49174642562866,49.3197135925293,eval photo,{}
+g68W6Snw8X,whole_photo2,49.3197135925293,53.681395053863525,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+g68W6Snw8X,whole_photo2,53.681395053863525,61.616188526153564,shutter rests,{'msg': 'I will rest and wait for you here.'}

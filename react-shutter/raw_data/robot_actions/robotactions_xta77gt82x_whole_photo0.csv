@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xta77gt82x,whole_photo0,-0.0001552104949951,5.396089553833008,joke,{'msg': 'What do robots wear in winter? Re-boots.'}
+xta77gt82x,whole_photo0,7.468267679214477,12.663604259490969,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+xta77gt82x,whole_photo0,14.73456072807312,19.932218551635746,follow,{}
+xta77gt82x,whole_photo0,22.005767107009888,29.474294185638428,joke,{'msg': 'What do you call it when two robots eat in a restaurant together? A dinner data.'}
+xta77gt82x,whole_photo0,31.547025203704838,38.8278431892395,photo,{}
+xta77gt82x,whole_photo0,38.828187227249146,43.393205404281616,taking photo,{}
+xta77gt82x,whole_photo0,43.393205404281616,49.65995478630066,eval photo,{}
+xta77gt82x,whole_photo0,49.65995478630066,54.57750678062439,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xta77gt82x,whole_photo0,54.57750678062439,62.55479979515076,shutter rests,{'msg': 'I will rest and wait for you here.'}

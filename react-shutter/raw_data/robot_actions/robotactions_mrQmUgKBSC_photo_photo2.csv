@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+mrQmUgKBSC,photo_photo2,7.277202129364014,12.442299842834473,perturbation,"{'horizontal': 0.39269908169872414, 'vertical': 0.0}"
+mrQmUgKBSC,photo_photo2,14.510727643966677,19.73184418678284,relax,"{'msg': ""Don't worry. You will look great.""}"
+mrQmUgKBSC,photo_photo2,21.79842686653137,30.464568376541138,joke,{'msg': 'Why was the unpredictable photographer not invited to any event? Everyone thought he was a loose Canon.'}
+mrQmUgKBSC,photo_photo2,32.52817964553833,35.00969433784485,resting,{}
+mrQmUgKBSC,photo_photo2,37.071319341659546,44.97077035903931,photo,{}
+mrQmUgKBSC,photo_photo2,44.97077131271362,49.38444471359253,taking photo,{}
+mrQmUgKBSC,photo_photo2,49.38444471359253,56.03462266921997,eval photo,{}
+mrQmUgKBSC,photo_photo2,56.03462266921997,64.49716997146606,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+mrQmUgKBSC,photo_photo2,64.49716997146606,72.61638617515564,shutter rests,{'msg': 'I will rest and wait for you here.'}

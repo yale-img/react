@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+daVe9MWTNX,photo_photo1,5.992210626602173,11.145750999450684,follow,{}
+daVe9MWTNX,photo_photo1,13.253634691238403,19.24859571456909,joke,{'msg': 'What do you call a robot which drives a car? A road-bot.'}
+daVe9MWTNX,photo_photo1,21.30866026878357,23.59335708618164,smile,{'msg': 'Look happy.'}
+daVe9MWTNX,photo_photo1,26.189429759979248,30.59563159942627,follow,{}
+daVe9MWTNX,photo_photo1,32.6590313911438,41.57820415496826,photo,{}
+daVe9MWTNX,photo_photo1,41.580145597457886,46.11866545677185,taking photo,{}
+daVe9MWTNX,photo_photo1,46.11866545677185,53.13503885269165,eval photo,{}
+daVe9MWTNX,photo_photo1,53.13503885269165,61.24391293525696,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+daVe9MWTNX,photo_photo1,61.24391293525696,69.50255084037781,shutter rests,{'msg': 'I will rest and wait for you here.'}

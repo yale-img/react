@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+ZiUxwDwSSI,whole_photo1,6.029068470001221,11.211596250534058,follow,{}
+ZiUxwDwSSI,whole_photo1,13.280720472335815,21.820786714553837,joke,"{'msg': ""Why shouldn't you ever steal a photographer's lens? He will remember you because he has a photographic memory.""}"
+ZiUxwDwSSI,whole_photo1,23.890165090560917,29.08689045906067,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+ZiUxwDwSSI,whole_photo1,31.194658517837524,36.38074135780335,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+ZiUxwDwSSI,whole_photo1,38.885223150253296,44.94044995307922,photo,{}
+ZiUxwDwSSI,whole_photo1,44.94097423553467,48.88412380218506,taking photo,{}
+ZiUxwDwSSI,whole_photo1,48.88412380218506,55.27762126922608,eval photo,{}
+ZiUxwDwSSI,whole_photo1,55.27762126922608,59.09608840942383,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+ZiUxwDwSSI,whole_photo1,59.09608840942383,66.35431861877441,shutter rests,{'msg': 'I will rest and wait for you here.'}

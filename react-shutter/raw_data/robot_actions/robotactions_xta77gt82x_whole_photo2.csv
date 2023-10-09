@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xta77gt82x,whole_photo2,6.853629112243652,12.266679763793944,joke,"{'msg': ""What is a robot's favorite music genre? Heavy metal.""}"
+xta77gt82x,whole_photo2,14.377835035324097,20.18647718429565,follow,{}
+xta77gt82x,whole_photo2,21.63822078704834,30.80393958091736,joke,{'msg': 'Why was the fish picked as the lead photographer for the camera campaign? He had a great fish eye lens.'}
+xta77gt82x,whole_photo2,32.87851023674011,38.05411601066589,follow,{}
+xta77gt82x,whole_photo2,40.16991949081421,48.47599267959595,photo,{}
+xta77gt82x,whole_photo2,48.477800369262695,52.42593193054199,taking photo,{}
+xta77gt82x,whole_photo2,52.42593193054199,60.79059672355652,eval photo,{}
+xta77gt82x,whole_photo2,60.79059672355652,64.91162896156311,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xta77gt82x,whole_photo2,64.91162896156311,73.44192600250244,shutter rests,{'msg': 'I will rest and wait for you here.'}

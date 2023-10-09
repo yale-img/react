@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+2L50Nny5Z5,photo_photo2,7.2364513874053955,12.240392446517944,follow,{}
+2L50Nny5Z5,photo_photo2,14.30385422706604,19.471759796142575,joke,{'msg': 'What do robots drink from? A ro-bottle.'}
+2L50Nny5Z5,photo_photo2,21.532406091690063,26.742377758026123,follow,{}
+2L50Nny5Z5,photo_photo2,28.803690910339355,34.18750071525574,joke,{'msg': 'What do robots wear in winter? Re-boots.'}
+2L50Nny5Z5,photo_photo2,36.24922490119934,42.915876626968384,photo,{}
+2L50Nny5Z5,photo_photo2,42.91627216339111,47.4626669883728,taking photo,{}
+2L50Nny5Z5,photo_photo2,47.4626669883728,54.07166028022766,eval photo,{}
+2L50Nny5Z5,photo_photo2,54.07166028022766,62.99037528038025,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+2L50Nny5Z5,photo_photo2,62.99037528038025,71.05021739006042,shutter rests,{'msg': 'I will rest and wait for you here.'}

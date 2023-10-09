@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+o40s3ABEFg,photo_photo0,-0.0002415180206298,5.147688150405884,follow,{}
+o40s3ABEFg,photo_photo0,7.206841468811035,12.355772018432615,perturbation,"{'horizontal': 0.39269908169872414, 'vertical': 0.0}"
+o40s3ABEFg,photo_photo0,14.416913747787476,22.491036415100098,joke,{'msg': 'Why was the camera so pumped for New Year? He was finally going to reach his resolution.'}
+o40s3ABEFg,photo_photo0,24.55077028274536,26.618479013442997,mid,{}
+o40s3ABEFg,photo_photo0,28.67767691612244,37.18198084831238,photo,{}
+o40s3ABEFg,photo_photo0,37.1822829246521,41.30592918395996,taking photo,{}
+o40s3ABEFg,photo_photo0,41.30592918395996,47.29059052467346,eval photo,{}
+o40s3ABEFg,photo_photo0,47.29059052467346,56.16304135322571,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+o40s3ABEFg,photo_photo0,56.16304135322571,64.01081824302673,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+VY95MLiF2q,photo_photo2,7.151013135910034,12.107589721679688,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+VY95MLiF2q,photo_photo2,14.174378395080566,19.367450952529907,follow,{}
+VY95MLiF2q,photo_photo2,21.43501567840576,31.74638199806213,joke,{'msg': 'What did the photographer say to his assistant at the photoshoot when he was frustrated? I feel like I will snap at any moment.'}
+VY95MLiF2q,photo_photo2,33.808146953582764,37.31005239486694,up,{}
+VY95MLiF2q,photo_photo2,39.370920181274414,47.47970247268677,photo,{}
+VY95MLiF2q,photo_photo2,47.479724645614624,51.60766434669495,taking photo,{}
+VY95MLiF2q,photo_photo2,51.60766434669495,58.67069959640503,eval photo,{}
+VY95MLiF2q,photo_photo2,58.67069959640503,67.14417314529419,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+VY95MLiF2q,photo_photo2,67.14417314529419,75.18838787078857,shutter rests,{'msg': 'I will rest and wait for you here.'}

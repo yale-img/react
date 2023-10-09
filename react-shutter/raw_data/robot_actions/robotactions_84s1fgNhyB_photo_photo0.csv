@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+84s1fgNhyB,photo_photo0,-0.0003542900085449,5.18016505241394,follow,{}
+84s1fgNhyB,photo_photo0,7.24128270149231,10.107497692108154,look_at_button,{}
+84s1fgNhyB,photo_photo0,12.369522094726562,20.891114711761475,joke,"{'msg': ""Why did the robot fall in love with the magnet? They couldn't resist their magnetic attraction.""}"
+84s1fgNhyB,photo_photo0,22.95807719230652,26.460484981536865,relax,"{'msg': ""Relax, I won't judge.""}"
+84s1fgNhyB,photo_photo0,28.520123720169067,36.99272775650024,photo,{}
+84s1fgNhyB,photo_photo0,36.99266362190247,42.18116903305054,taking photo,{}
+84s1fgNhyB,photo_photo0,42.18116903305054,49.39217281341553,eval photo,{}
+84s1fgNhyB,photo_photo0,49.39217281341553,59.35903215408325,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+84s1fgNhyB,photo_photo0,59.35903215408325,66.55450534820557,shutter rests,{'msg': 'I will rest and wait for you here.'}

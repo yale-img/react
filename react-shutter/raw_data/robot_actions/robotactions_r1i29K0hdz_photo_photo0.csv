@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+r1i29K0hdz,photo_photo0,-6.365776062011719e-05,5.765475273132324,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+r1i29K0hdz,photo_photo0,7.256714105606079,12.831853151321411,joke,{'msg': 'What do robots drink from? A ro-bottle.'}
+r1i29K0hdz,photo_photo0,14.895750522613524,18.4025993347168,up,{}
+r1i29K0hdz,photo_photo0,20.46537661552429,26.897430181503296,joke,{'msg': 'Why did the photo critic marry the photographer? She liked his perspective.'}
+r1i29K0hdz,photo_photo0,28.957452058792114,38.02624559402466,photo,{}
+r1i29K0hdz,photo_photo0,38.032248735427856,41.39237928390503,taking photo,{}
+r1i29K0hdz,photo_photo0,41.39237928390503,47.5893988609314,eval photo,{}
+r1i29K0hdz,photo_photo0,47.5893988609314,56.12536549568176,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+r1i29K0hdz,photo_photo0,56.12536549568176,64.01898264884949,shutter rests,{'msg': 'I will rest and wait for you here.'}

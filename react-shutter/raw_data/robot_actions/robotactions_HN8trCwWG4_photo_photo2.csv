@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+HN8trCwWG4,photo_photo2,8.077854633331299,11.828891277313232,relax,"{'msg': ""Don't worry. You will look great.""}"
+HN8trCwWG4,photo_photo2,13.89137053489685,16.36637568473816,mid,{}
+HN8trCwWG4,photo_photo2,18.955822467803955,20.49906206130981,smile,{'msg': 'Look happy.'}
+HN8trCwWG4,photo_photo2,22.565088510513306,27.722204208374023,follow,{}
+HN8trCwWG4,photo_photo2,29.788540601730347,36.66768717765808,photo,{}
+HN8trCwWG4,photo_photo2,36.66797947883606,41.21242213249207,taking photo,{}
+HN8trCwWG4,photo_photo2,41.21242213249207,47.83522057533264,eval photo,{}
+HN8trCwWG4,photo_photo2,47.83522057533264,56.752418518066406,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+HN8trCwWG4,photo_photo2,56.752418518066406,65.02451038360596,shutter rests,{'msg': 'I will rest and wait for you here.'}

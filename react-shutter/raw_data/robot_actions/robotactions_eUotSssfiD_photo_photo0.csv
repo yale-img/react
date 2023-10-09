@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+eUotSssfiD,photo_photo0,-0.0002627372741699,1.2390124797821045,mid,{}
+eUotSssfiD,photo_photo0,3.302963256835937,8.459503889083862,follow,{}
+eUotSssfiD,photo_photo0,11.043507814407349,20.663206815719604,joke,"{'msg': ""Did you hear about the writing robot who combined all the books ever written into one big novel? It's a long story.""}"
+eUotSssfiD,photo_photo0,22.72492790222168,24.992369174957275,look_at_button,{}
+eUotSssfiD,photo_photo0,27.047547340393063,35.31440997123718,photo,{}
+eUotSssfiD,photo_photo0,35.314598083496094,40.80761098861694,taking photo,{}
+eUotSssfiD,photo_photo0,40.80761098861694,46.07728934288025,eval photo,{}
+eUotSssfiD,photo_photo0,46.07728934288025,55.382670402526855,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+eUotSssfiD,photo_photo0,55.382670402526855,63.2166633605957,shutter rests,{'msg': 'I will rest and wait for you here.'}

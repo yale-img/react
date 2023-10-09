@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+VY95MLiF2q,whole_photo1,6.648666143417358,10.614075183868408,relax,"{'msg': ""Relax, I won't judge.""}"
+VY95MLiF2q,whole_photo1,12.684542655944824,18.495434761047363,joke,{'msg': 'How do robots eat salsa? With micro-chips.'}
+VY95MLiF2q,whole_photo1,20.5944459438324,21.63973593711853,resting,{}
+VY95MLiF2q,whole_photo1,23.710402011871334,28.881587266922,follow,{}
+VY95MLiF2q,whole_photo1,30.951117515563965,38.04197144508362,photo,{}
+VY95MLiF2q,whole_photo1,38.04244756698608,42.60310244560242,taking photo,{}
+VY95MLiF2q,whole_photo1,42.60310244560242,49.87449049949646,eval photo,{}
+VY95MLiF2q,whole_photo1,49.87449049949646,54.43949747085571,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+VY95MLiF2q,whole_photo1,54.43949747085571,62.76765561103821,shutter rests,{'msg': 'I will rest and wait for you here.'}

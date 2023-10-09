@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+eUotSssfiD,whole_photo1,5.820214748382568,15.811115026474,joke,{'msg': 'Why do cameras who are self-obsessed take a lot of photos that have a blurred background? They like to keep the focus on themselves.'}
+eUotSssfiD,whole_photo1,17.88589358329773,19.7565712928772,smile,{'msg': 'Smile!'}
+eUotSssfiD,whole_photo1,21.82946276664734,27.006288290023804,perturbation,"{'horizontal': 0.39269908169872414, 'vertical': 0.0}"
+eUotSssfiD,whole_photo1,29.07925701141357,36.9888801574707,joke,{'msg': 'Why was Cinderella so hopeful about her photos? She knew her prints would come one day.'}
+eUotSssfiD,whole_photo1,39.07058358192444,46.17700457572937,photo,{}
+eUotSssfiD,whole_photo1,46.177557706832886,50.748384952545166,taking photo,{}
+eUotSssfiD,whole_photo1,50.748384952545166,54.9059784412384,eval photo,{}
+eUotSssfiD,whole_photo1,54.9059784412384,59.27147579193115,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+eUotSssfiD,whole_photo1,59.27147579193115,66.94129991531372,shutter rests,{'msg': 'I will rest and wait for you here.'}
