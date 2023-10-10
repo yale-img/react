@@ -3,7 +3,7 @@ import glob
 import os
 
 INPUT_FOLDER = '../processed_data/smoothed_facial_features'
-ACTION_FOLDER = '../raw_data/robot_actions'
+ACTION_FOLDER = '../data/robot_actions'
 OUTPUT_FOLDER = '../processed_data'
 
 AU_cols = ['AU01_r','AU02_r','AU04_r','AU05_r','AU06_r','AU07_r','AU09_r',

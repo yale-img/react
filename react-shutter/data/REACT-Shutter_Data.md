@@ -1,7 +1,7 @@
 # REACT-Shutter: Data
 
 ## Table of Contents
-This files describes the data provided in the `raw_data` folder of the REACT-Shutter dataset.
+This files describes the data provided in the `data` folder of the REACT-Shutter dataset.
 - [react-shutter_summary](#react-shutter_summary): Provides additional information about task and interaction
 - [robot_actions](#robot_actions): Timestamps and details of robot actions during interaction
 - [facial_features](#facial_features): Facial analysis of images captured during interaction
