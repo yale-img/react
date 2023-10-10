@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xATdJjgoU8,photo_photo1,6.458494186401367,9.0283100605011,smile,{'msg': 'Say cheese.'}
+xATdJjgoU8,photo_photo1,10.594298839569092,21.127891778945923,joke,{'msg': 'Why do cameras who are self-obsessed take a lot of photos that have a blurred background? They like to keep the focus on themselves.'}
+xATdJjgoU8,photo_photo1,23.193960905075077,24.24361658096313,resting,{}
+xATdJjgoU8,photo_photo1,26.35848426818848,31.845474004745483,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+xATdJjgoU8,photo_photo1,33.57939648628235,42.18049430847168,photo,{}
+xATdJjgoU8,photo_photo1,42.18093705177307,46.17802357673645,taking photo,{}
+xATdJjgoU8,photo_photo1,46.17802357673645,52.38641619682312,eval photo,{}
+xATdJjgoU8,photo_photo1,52.38641619682312,61.94460439682007,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xATdJjgoU8,photo_photo1,61.94460439682007,70.00163316726685,shutter rests,{'msg': 'I will rest and wait for you here.'}

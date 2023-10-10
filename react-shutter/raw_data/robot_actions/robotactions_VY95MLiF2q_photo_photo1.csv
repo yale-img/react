@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+VY95MLiF2q,photo_photo1,6.203104019165039,10.324991703033447,up,{}
+VY95MLiF2q,photo_photo1,12.38646936416626,15.483853578567505,relax,"{'msg': ""Relax, I won't judge.""}"
+VY95MLiF2q,photo_photo1,17.58722996711731,22.74934959411621,follow,{}
+VY95MLiF2q,photo_photo1,24.810847997665405,32.866005659103394,joke,"{'msg': ""Why did the robot fall off his bike? He hadn't ridden in a while and was a little rusty.""}"
+VY95MLiF2q,photo_photo1,34.93216609954834,43.25236463546753,photo,{}
+VY95MLiF2q,photo_photo1,43.25302577018738,47.38733720779419,taking photo,{}
+VY95MLiF2q,photo_photo1,47.38733720779419,51.74860072135925,eval photo,{}
+VY95MLiF2q,photo_photo1,51.74860072135925,60.47510004043579,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+VY95MLiF2q,photo_photo1,60.47510004043579,67.91043329238892,shutter rests,{'msg': 'I will rest and wait for you here.'}

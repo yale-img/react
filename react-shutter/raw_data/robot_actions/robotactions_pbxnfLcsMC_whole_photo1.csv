@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+pbxnfLcsMC,whole_photo1,6.179796457290649,9.07819414138794,relax,"{'msg': ""Relax, I won't judge.""}"
+pbxnfLcsMC,whole_photo1,11.151806354522703,16.33454203605652,follow,{}
+pbxnfLcsMC,whole_photo1,18.409957885742188,21.961957693099976,up,{}
+pbxnfLcsMC,whole_photo1,24.034590482711792,34.19599366188049,joke,{'msg': 'Why do cameras who are self-obsessed take a lot of photos that have a blurred background? They like to keep the focus on themselves.'}
+pbxnfLcsMC,whole_photo1,36.754509925842285,44.16406750679016,photo,{}
+pbxnfLcsMC,whole_photo1,44.164369106292725,48.10234093666077,taking photo,{}
+pbxnfLcsMC,whole_photo1,48.10234093666077,54.11857700347901,eval photo,{}
+pbxnfLcsMC,whole_photo1,54.11857700347901,58.68885374069214,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+pbxnfLcsMC,whole_photo1,58.68885374069214,66.40269351005554,shutter rests,{'msg': 'I will rest and wait for you here.'}

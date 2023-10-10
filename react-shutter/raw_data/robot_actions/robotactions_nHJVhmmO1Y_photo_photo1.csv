@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+nHJVhmmO1Y,photo_photo1,5.834090948104858,10.99815559387207,follow,{}
+nHJVhmmO1Y,photo_photo1,13.059577465057371,15.427976131439207,resting,{}
+nHJVhmmO1Y,photo_photo1,17.493611812591553,23.117016792297363,joke,{'msg': 'Why did the robot sneeze? She had a virus.'}
+nHJVhmmO1Y,photo_photo1,25.62750792503357,27.01796841621399,resting,{}
+nHJVhmmO1Y,photo_photo1,28.28396964073181,35.121729135513306,photo,{}
+nHJVhmmO1Y,photo_photo1,35.122517585754395,39.24986910820007,taking photo,{}
+nHJVhmmO1Y,photo_photo1,39.24986910820007,44.45717096328735,eval photo,{}
+nHJVhmmO1Y,photo_photo1,44.45717096328735,53.54149222373962,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+nHJVhmmO1Y,photo_photo1,53.54149222373962,61.42016506195069,shutter rests,{'msg': 'I will rest and wait for you here.'}

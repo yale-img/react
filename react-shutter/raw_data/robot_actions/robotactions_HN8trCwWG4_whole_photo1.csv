@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+HN8trCwWG4,whole_photo1,5.656482696533203,7.731679677963257,smile,{'msg': 'Say cheese.'}
+HN8trCwWG4,whole_photo1,9.801379203796388,14.982084512710571,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+HN8trCwWG4,whole_photo1,17.054484128952026,22.059489488601685,follow,{}
+HN8trCwWG4,whole_photo1,24.49231338500977,30.5870578289032,joke,{'msg': 'What do you call a robot which drives a car? A road-bot.'}
+HN8trCwWG4,whole_photo1,32.66026163101196,41.0070698261261,photo,{}
+HN8trCwWG4,whole_photo1,41.007319688797,45.41910099983215,taking photo,{}
+HN8trCwWG4,whole_photo1,45.41910099983215,50.94895577430725,eval photo,{}
+HN8trCwWG4,whole_photo1,50.94895577430725,55.51718974113464,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+HN8trCwWG4,whole_photo1,55.51718974113464,63.22757983207703,shutter rests,{'msg': 'I will rest and wait for you here.'}

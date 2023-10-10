@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+v84YO82Rbj,photo_photo1,6.407165050506592,8.883466243743896,mid,{}
+v84YO82Rbj,photo_photo1,10.98724603652954,16.57294225692749,joke,{'msg': 'How do robots eat salsa? With micro-chips.'}
+v84YO82Rbj,photo_photo1,18.63583850860596,23.809170961380005,follow,{}
+v84YO82Rbj,photo_photo1,25.87796974182129,27.533234119415283,mid,{}
+v84YO82Rbj,photo_photo1,29.594478130340576,37.70281839370728,photo,{}
+v84YO82Rbj,photo_photo1,37.703240156173706,41.83805179595947,taking photo,{}
+v84YO82Rbj,photo_photo1,41.83805179595947,49.20224165916443,eval photo,{}
+v84YO82Rbj,photo_photo1,49.20224165916443,58.39968395233154,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+v84YO82Rbj,photo_photo1,58.39968395233154,65.8438515663147,shutter rests,{'msg': 'I will rest and wait for you here.'}

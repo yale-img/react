@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+7V11JrmIGy,photo_photo2,7.354957580566406,15.782630920410156,joke,{'msg': 'How did the camera know that the waterbottle stole all of his photos? He left a watermark.'}
+7V11JrmIGy,photo_photo2,17.852147340774536,19.105137586593628,resting,{}
+7V11JrmIGy,photo_photo2,21.169159412384037,30.19259595870972,joke,"{'msg': 'I was bored, so I made a robot that distributes herbs. It helped pass the thyme.'}"
+7V11JrmIGy,photo_photo2,32.83232307434082,37.12453746795654,follow,{}
+7V11JrmIGy,photo_photo2,39.19337630271912,47.47613763809204,photo,{}
+7V11JrmIGy,photo_photo2,47.47653603553772,51.85803699493408,taking photo,{}
+7V11JrmIGy,photo_photo2,51.85803699493408,59.0090651512146,eval photo,{}
+7V11JrmIGy,photo_photo2,59.0090651512146,68.20383834838867,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+7V11JrmIGy,photo_photo2,68.20383834838867,76.23944163322449,shutter rests,{'msg': 'I will rest and wait for you here.'}

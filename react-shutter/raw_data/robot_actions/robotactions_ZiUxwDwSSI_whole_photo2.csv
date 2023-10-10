@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+ZiUxwDwSSI,whole_photo2,7.072727203369141,14.165141820907593,joke,{'msg': 'Why would a farmer make a good photographer? They know how to handle the crop.'}
+ZiUxwDwSSI,whole_photo2,16.237021446228027,21.256587028503414,perturbation,"{'horizontal': 0.39269908169872414, 'vertical': 0.0}"
+ZiUxwDwSSI,whole_photo2,23.33220887184143,31.20955300331116,joke,"{'msg': ""Why did the robot fall off his bike? He hadn't ridden in a while and was a little rusty.""}"
+ZiUxwDwSSI,whole_photo2,33.31710886955261,38.3765332698822,follow,{}
+ZiUxwDwSSI,whole_photo2,40.44668793678284,47.17207264900208,photo,{}
+ZiUxwDwSSI,whole_photo2,47.17242622375488,51.73765301704407,taking photo,{}
+ZiUxwDwSSI,whole_photo2,51.73765301704407,56.51156663894653,eval photo,{}
+ZiUxwDwSSI,whole_photo2,56.51156663894653,60.67029905319214,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+ZiUxwDwSSI,whole_photo2,60.67029905319214,68.75139546394348,shutter rests,{'msg': 'I will rest and wait for you here.'}

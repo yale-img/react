@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+ZYex16Qzaw,whole_photo1,5.865781784057617,9.819577932357788,relax,"{'msg': ""Don't worry. You will look great.""}"
+ZYex16Qzaw,whole_photo1,11.892762899398804,16.06553602218628,up,{}
+ZYex16Qzaw,whole_photo1,18.139328241348267,23.11634087562561,joke,{'msg': 'What do robots drink from? A ro-bottle.'}
+ZYex16Qzaw,whole_photo1,25.86375999450684,29.124096155166622,resting,{}
+ZYex16Qzaw,whole_photo1,32.086992263793945,38.31676530838013,photo,{}
+ZYex16Qzaw,whole_photo1,38.31735229492188,42.31224322319031,taking photo,{}
+ZYex16Qzaw,whole_photo1,42.31224322319031,50.6164767742157,eval photo,{}
+ZYex16Qzaw,whole_photo1,50.6164767742157,54.39044761657715,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+ZYex16Qzaw,whole_photo1,54.39044761657715,61.85927152633667,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+Py9ArjstRu,photo_photo2,8.211968183517456,17.00776982307434,joke,{'msg': 'Why was the camera so happy after coming out of the hospital? The doctors were finally able to stabilize his condition.'}
+Py9ArjstRu,photo_photo2,19.06907629966736,21.96156406402588,look_at_button,{}
+Py9ArjstRu,photo_photo2,24.02287077903748,30.62715530395508,joke,{'msg': 'What kind of photos do lobsters take the most? Shellfies.'}
+Py9ArjstRu,photo_photo2,32.68832802772522,35.212236166000366,mid,{}
+Py9ArjstRu,photo_photo2,37.27571249008179,44.09394121170044,photo,{}
+Py9ArjstRu,photo_photo2,44.094096183776855,48.22514247894287,taking photo,{}
+Py9ArjstRu,photo_photo2,48.22514247894287,54.250378131866455,eval photo,{}
+Py9ArjstRu,photo_photo2,54.250378131866455,63.33507204055786,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+Py9ArjstRu,photo_photo2,63.33507204055786,71.23289680480957,shutter rests,{'msg': 'I will rest and wait for you here.'}

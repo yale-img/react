@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+XXqlRG8OCY,photo_photo0,-0.0049595832824707,4.541279315948486,relax,"{'msg': ""Don't worry. You will look great.""}"
+XXqlRG8OCY,photo_photo0,6.603505611419678,13.039779424667358,joke,{'msg': 'What kind of photos do lobsters take the most? Shellfies.'}
+XXqlRG8OCY,photo_photo0,15.099820137023926,20.25338387489319,follow,{}
+XXqlRG8OCY,photo_photo0,22.31838035583496,30.600239038467407,joke,"{'msg': ""Why can't you ever hold photos of light bulbs too close to the sun? Too much exposure.""}"
+XXqlRG8OCY,photo_photo0,32.660667419433594,41.34779644012451,photo,{}
+XXqlRG8OCY,photo_photo0,41.34825563430786,45.88841795921326,taking photo,{}
+XXqlRG8OCY,photo_photo0,45.88841795921326,51.506369829177856,eval photo,{}
+XXqlRG8OCY,photo_photo0,51.506369829177856,60.17631936073303,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+XXqlRG8OCY,photo_photo0,60.17631936073303,68.4644684791565,shutter rests,{'msg': 'I will rest and wait for you here.'}

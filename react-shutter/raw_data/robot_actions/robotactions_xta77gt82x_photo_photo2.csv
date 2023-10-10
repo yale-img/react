@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xta77gt82x,photo_photo2,7.065807342529297,11.002676725387571,relax,"{'msg': ""Don't worry. You will look great.""}"
+xta77gt82x,photo_photo2,13.06725573539734,15.956326961517334,look_at_button,{}
+xta77gt82x,photo_photo2,18.02042865753174,23.22274422645569,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+xta77gt82x,photo_photo2,25.28819346427917,31.69941258430481,joke,{'msg': 'Why did the robot need counseling? He bot-tled up his emotions.'}
+xta77gt82x,photo_photo2,33.76393008232117,41.87795352935791,photo,{}
+xta77gt82x,photo_photo2,41.87833023071289,47.11742901802063,taking photo,{}
+xta77gt82x,photo_photo2,47.11742901802063,51.8125364780426,eval photo,{}
+xta77gt82x,photo_photo2,51.8125364780426,60.72997856140137,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xta77gt82x,photo_photo2,60.72997856140137,68.58924841880798,shutter rests,{'msg': 'I will rest and wait for you here.'}

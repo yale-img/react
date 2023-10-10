@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+84s1fgNhyB,whole_photo0,-0.0013723373413085,1.9246315956115725,resting,{}
+84s1fgNhyB,whole_photo0,3.990700244903565,6.516614198684692,smile,{'msg': 'Say cheese.'}
+84s1fgNhyB,whole_photo0,8.58718490600586,13.767153978347778,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+84s1fgNhyB,whole_photo0,15.836262226104736,21.03271794319153,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+84s1fgNhyB,whole_photo0,23.098896741867065,31.963186740875244,photo,{}
+84s1fgNhyB,whole_photo0,31.967346906661987,35.99593234062195,taking photo,{}
+84s1fgNhyB,whole_photo0,35.99593234062195,42.01484227180481,eval photo,{}
+84s1fgNhyB,whole_photo0,42.01484227180481,46.36036443710327,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+84s1fgNhyB,whole_photo0,46.36036443710327,54.95003437995911,shutter rests,{'msg': 'I will rest and wait for you here.'}

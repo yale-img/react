@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+cbTr6DHh5v,whole_photo2,6.667791604995728,13.0980224609375,joke,{'msg': 'Why was the robot dog itchy? He had robo-ticks.'}
+cbTr6DHh5v,whole_photo2,15.175538063049316,20.361618280410767,follow,{}
+cbTr6DHh5v,whole_photo2,22.436074256896973,27.617563724517822,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+cbTr6DHh5v,whole_photo2,29.69299697875977,39.46969652175903,joke,{'msg': 'Why was the camera so happy after coming out of the hospital? The doctors were finally able to stabilize his condition.'}
+cbTr6DHh5v,whole_photo2,41.899832010269165,50.12313389778137,photo,{}
+cbTr6DHh5v,whole_photo2,50.12349724769592,54.49195551872253,taking photo,{}
+cbTr6DHh5v,whole_photo2,54.49195551872253,60.1345648765564,eval photo,{}
+cbTr6DHh5v,whole_photo2,60.1345648765564,64.49442791938782,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+cbTr6DHh5v,whole_photo2,64.49442791938782,72.41469860076904,shutter rests,{'msg': 'I will rest and wait for you here.'}

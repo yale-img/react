@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+PLot7ro0Cm,photo_photo2,7.215427160263061,8.255541563034058,resting,{}
+PLot7ro0Cm,photo_photo2,10.32043480873108,18.5840368270874,joke,{'msg': 'How did the camera know that the waterbottle stole all of his photos? He left a watermark.'}
+PLot7ro0Cm,photo_photo2,20.654141426086422,26.647395372390747,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+PLot7ro0Cm,photo_photo2,27.91824150085449,31.22184991836548,up,{}
+PLot7ro0Cm,photo_photo2,33.28173232078552,41.96998953819275,photo,{}
+PLot7ro0Cm,photo_photo2,41.97022366523743,45.98347783088684,taking photo,{}
+PLot7ro0Cm,photo_photo2,45.98347783088684,52.2011022567749,eval photo,{}
+PLot7ro0Cm,photo_photo2,52.2011022567749,61.31070017814636,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+PLot7ro0Cm,photo_photo2,61.31070017814636,68.58953356742859,shutter rests,{'msg': 'I will rest and wait for you here.'}

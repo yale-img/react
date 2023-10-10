@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+Ndp6bJneG6,whole_photo0,0.8065805435180664,6.101457357406616,joke,"{'msg': ""What is a robot's favorite music genre? Heavy metal.""}"
+Ndp6bJneG6,whole_photo0,8.205666542053223,11.7273211479187,up,{}
+Ndp6bJneG6,whole_photo0,13.796072483062744,18.97030806541443,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+Ndp6bJneG6,whole_photo0,21.0742826461792,23.15402293205261,smile,{'msg': 'Smile!'}
+Ndp6bJneG6,whole_photo0,25.222800254821777,33.99458932876587,photo,{}
+Ndp6bJneG6,whole_photo0,33.99453282356262,38.55582642555237,taking photo,{}
+Ndp6bJneG6,whole_photo0,38.55582642555237,45.21176052093506,eval photo,{}
+Ndp6bJneG6,whole_photo0,45.21176052093506,49.5941846370697,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+Ndp6bJneG6,whole_photo0,49.5941846370697,57.67123889923096,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+mrQmUgKBSC,photo_photo0,-0.0028619766235351,6.835081100463867,joke,{'msg': 'Why would a farmer make a good photographer? They know how to handle the crop.'}
+mrQmUgKBSC,photo_photo0,8.892557859420776,11.373324155807495,look_at_button,{}
+mrQmUgKBSC,photo_photo0,13.433663606643677,15.91404628753662,smile,{'msg': 'Say cheese.'}
+mrQmUgKBSC,photo_photo0,17.970365524291992,21.56957745552063,resting,{}
+mrQmUgKBSC,photo_photo0,22.739304780960083,30.184632062911987,photo,{}
+mrQmUgKBSC,photo_photo0,30.18484878540039,34.724260330200195,taking photo,{}
+mrQmUgKBSC,photo_photo0,34.724260330200195,40.12930393218994,eval photo,{}
+mrQmUgKBSC,photo_photo0,40.12930393218994,49.40879678726196,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+mrQmUgKBSC,photo_photo0,49.40879678726196,57.244356870651245,shutter rests,{'msg': 'I will rest and wait for you here.'}

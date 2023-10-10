@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+7V11JrmIGy,photo_photo1,5.999802827835083,11.177868127822876,joke,{'msg': 'What do robots wear in winter? Re-boots.'}
+7V11JrmIGy,photo_photo1,13.242528200149536,18.0509934425354,relax,"{'msg': ""Don't worry. You will look great.""}"
+7V11JrmIGy,photo_photo1,20.11614990234375,25.27881407737732,follow,{}
+7V11JrmIGy,photo_photo1,27.351722955703732,32.56509518623352,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+7V11JrmIGy,photo_photo1,34.63367509841919,42.50042796134949,photo,{}
+7V11JrmIGy,photo_photo1,42.50035715103149,47.09691429138184,taking photo,{}
+7V11JrmIGy,photo_photo1,47.09691429138184,54.649580001831055,eval photo,{}
+7V11JrmIGy,photo_photo1,54.649580001831055,62.60221266746521,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+7V11JrmIGy,photo_photo1,62.60221266746521,70.71926021575928,shutter rests,{'msg': 'I will rest and wait for you here.'}

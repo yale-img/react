@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+XR7KSngQb0,whole_photo0,-0.0001957416534423,7.273489952087402,joke,{'msg': 'What do you call it when two robots eat in a restaurant together? A dinner data.'}
+XR7KSngQb0,whole_photo0,9.34361481666565,11.827876329421995,look_at_button,{}
+XR7KSngQb0,whole_photo0,13.90370273590088,19.0816023349762,follow,{}
+XR7KSngQb0,whole_photo0,21.783679723739624,23.673614740371704,smile,{'msg': 'Say cheese.'}
+XR7KSngQb0,whole_photo0,25.74350118637085,34.70571732521057,photo,{}
+XR7KSngQb0,whole_photo0,34.70604157447815,38.8555269241333,taking photo,{}
+XR7KSngQb0,whole_photo0,38.8555269241333,43.832058906555176,eval photo,{}
+XR7KSngQb0,whole_photo0,43.832058906555176,48.59922504425049,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+XR7KSngQb0,whole_photo0,48.59922504425049,56.11022067070007,shutter rests,{'msg': 'I will rest and wait for you here.'}

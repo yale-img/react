@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+QNXQ4eUEgD,whole_photo0,-0.035473346710205,5.511737823486328,joke,{'msg': 'What do robots drink from? A ro-bottle.'}
+QNXQ4eUEgD,whole_photo0,6.828557252883911,9.114196538925173,look_at_button,{}
+QNXQ4eUEgD,whole_photo0,11.184138298034668,16.36821174621582,follow,{}
+QNXQ4eUEgD,whole_photo0,18.437119722366333,25.524829387664795,joke,"{'msg': ""What did the robot's friends say at his funeral? Rust in peace.""}"
+QNXQ4eUEgD,whole_photo0,27.59668612480164,36.10895347595215,photo,{}
+QNXQ4eUEgD,whole_photo0,36.14785861968994,40.06754684448242,taking photo,{}
+QNXQ4eUEgD,whole_photo0,40.06754684448242,46.288496017456055,eval photo,{}
+QNXQ4eUEgD,whole_photo0,46.288496017456055,50.44468665122986,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+QNXQ4eUEgD,whole_photo0,50.44468665122986,58.16637444496155,shutter rests,{'msg': 'I will rest and wait for you here.'}

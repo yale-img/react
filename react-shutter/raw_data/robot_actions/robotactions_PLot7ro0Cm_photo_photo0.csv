@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+PLot7ro0Cm,photo_photo0,-0.0002434253692626,5.187754392623901,follow,{}
+PLot7ro0Cm,photo_photo0,7.251069784164429,11.588413715362549,relax,"{'msg': ""Don't worry. You will look great.""}"
+PLot7ro0Cm,photo_photo0,13.64518427848816,18.797844409942627,follow,{}
+PLot7ro0Cm,photo_photo0,20.89093804359436,29.339967489242557,joke,"{'msg': ""Why did the boy never try to become a professional photographer? He just couldn't picture himself being one.""}"
+PLot7ro0Cm,photo_photo0,31.39994788169861,39.4610276222229,photo,{}
+PLot7ro0Cm,photo_photo0,39.46970248222351,44.34897541999817,taking photo,{}
+PLot7ro0Cm,photo_photo0,44.34897541999817,50.23215079307556,eval photo,{}
+PLot7ro0Cm,photo_photo0,50.23215079307556,58.92318558692932,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+PLot7ro0Cm,photo_photo0,58.92318558692932,66.55024027824402,shutter rests,{'msg': 'I will rest and wait for you here.'}

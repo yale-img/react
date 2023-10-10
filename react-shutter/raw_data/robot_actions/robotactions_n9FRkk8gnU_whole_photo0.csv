@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+n9FRkk8gnU,whole_photo0,-0.0001893043518066,5.181983709335327,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+n9FRkk8gnU,whole_photo0,7.414897680282593,12.435485124588013,follow,{}
+n9FRkk8gnU,whole_photo0,14.50432276725769,20.130815982818604,joke,{'msg': 'What name should you never call a robot? Rusty.'}
+n9FRkk8gnU,whole_photo0,22.19813132286072,27.372938871383667,follow,{}
+n9FRkk8gnU,whole_photo0,29.44276213645935,38.39969968795776,photo,{}
+n9FRkk8gnU,whole_photo0,38.40043306350708,42.953471183776855,taking photo,{}
+n9FRkk8gnU,whole_photo0,42.953471183776855,50.42075657844544,eval photo,{}
+n9FRkk8gnU,whole_photo0,50.42075657844544,54.77091503143311,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+n9FRkk8gnU,whole_photo0,54.77091503143311,62.675641775131226,shutter rests,{'msg': 'I will rest and wait for you here.'}

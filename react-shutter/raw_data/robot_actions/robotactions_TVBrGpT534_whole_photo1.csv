@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+TVBrGpT534,whole_photo1,6.224044799804688,8.30767035484314,smile,{'msg': 'Look happy.'}
+TVBrGpT534,whole_photo1,10.85602569580078,15.595081329345703,follow,{}
+TVBrGpT534,whole_photo1,17.665794610977173,21.19095277786255,up,{}
+TVBrGpT534,whole_photo1,23.297723293304443,31.794681310653687,joke,"{'msg': ""Why can't you ever hold photos of light bulbs too close to the sun? Too much exposure.""}"
+TVBrGpT534,whole_photo1,33.90748929977417,42.00631999969482,photo,{}
+TVBrGpT534,whole_photo1,42.006316900253296,46.19142484664917,taking photo,{}
+TVBrGpT534,whole_photo1,46.19142484664917,52.40883827209473,eval photo,{}
+TVBrGpT534,whole_photo1,52.40883827209473,57.09241843223572,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+TVBrGpT534,whole_photo1,57.09241843223572,64.76147723197937,shutter rests,{'msg': 'I will rest and wait for you here.'}

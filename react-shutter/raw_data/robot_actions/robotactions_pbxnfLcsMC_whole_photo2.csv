@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+pbxnfLcsMC,whole_photo2,7.09945559501648,9.58874225616455,mid,{}
+pbxnfLcsMC,whole_photo2,11.659788131713867,18.590317964553837,joke,{'msg': 'Why did the robot take a train up the mountain? He thought it would be a hard drive.'}
+pbxnfLcsMC,whole_photo2,20.663744688034058,25.849473237991333,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+pbxnfLcsMC,whole_photo2,27.92314958572388,36.42643475532532,joke,"{'msg': 'Why was the robot embarrassed? He had software and hardware, but no underwear.'}"
+pbxnfLcsMC,whole_photo2,38.49885654449463,45.58980989456177,photo,{}
+pbxnfLcsMC,whole_photo2,45.590250730514526,49.94573903083801,taking photo,{}
+pbxnfLcsMC,whole_photo2,49.94573903083801,55.8056800365448,eval photo,{}
+pbxnfLcsMC,whole_photo2,55.8056800365448,59.95176863670349,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+pbxnfLcsMC,whole_photo2,59.95176863670349,68.64765548706055,shutter rests,{'msg': 'I will rest and wait for you here.'}

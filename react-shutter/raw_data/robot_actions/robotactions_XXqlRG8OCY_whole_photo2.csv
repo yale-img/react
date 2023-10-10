@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+XXqlRG8OCY,whole_photo2,6.943334579467773,13.996947765350342,joke,{'msg': 'What happens to robots after they go defunct? They rust in peace.'}
+XXqlRG8OCY,whole_photo2,16.105132818222046,21.308852672576904,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+XXqlRG8OCY,whole_photo2,23.83318400382996,29.001185655593872,follow,{}
+XXqlRG8OCY,whole_photo2,30.536853313446045,36.35051774978638,joke,{'msg': 'Where did the robot go on vacation? Bots-wana.'}
+XXqlRG8OCY,whole_photo2,38.62939095497131,46.37357664108277,photo,{}
+XXqlRG8OCY,whole_photo2,46.37395215034485,50.93437957763672,taking photo,{}
+XXqlRG8OCY,whole_photo2,50.93437957763672,58.65518116950989,eval photo,{}
+XXqlRG8OCY,whole_photo2,58.65518116950989,63.24095821380615,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+XXqlRG8OCY,whole_photo2,63.24095821380615,71.96781396865845,shutter rests,{'msg': 'I will rest and wait for you here.'}

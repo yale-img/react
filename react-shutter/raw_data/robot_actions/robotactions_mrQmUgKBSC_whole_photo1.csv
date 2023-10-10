@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+mrQmUgKBSC,whole_photo1,6.052518606185913,12.50883936882019,joke,{'msg': 'Why did the robot go back to school? Her skills were a little rusty.'}
+mrQmUgKBSC,whole_photo1,14.84575605392456,19.753315210342407,follow,{}
+mrQmUgKBSC,whole_photo1,21.82900357246399,24.52765774726868,resting,{}
+mrQmUgKBSC,whole_photo1,27.423353672027588,36.77973294258118,joke,{'msg': 'Why do cameras who are self-obsessed take a lot of photos that have a blurred background? They like to keep the focus on themselves.'}
+mrQmUgKBSC,whole_photo1,38.849963426589966,47.16023564338684,photo,{}
+mrQmUgKBSC,whole_photo1,47.16056776046753,51.10450863838196,taking photo,{}
+mrQmUgKBSC,whole_photo1,51.10450863838196,56.91249322891235,eval photo,{}
+mrQmUgKBSC,whole_photo1,56.91249322891235,61.28357553482056,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+mrQmUgKBSC,whole_photo1,61.28357553482056,68.7755081653595,shutter rests,{'msg': 'I will rest and wait for you here.'}

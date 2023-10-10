@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+5KR7m3ghIf,whole_photo0,-0.0002200603485107,5.007885694503784,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+5KR7m3ghIf,whole_photo0,7.080282926559448,12.247019052505491,follow,{}
+5KR7m3ghIf,whole_photo0,14.359118461608888,21.768121242523197,joke,{'msg': 'Why did the robot need counseling? He bot-tled up his emotions.'}
+5KR7m3ghIf,whole_photo0,23.05509376525879,28.227673292160038,follow,{}
+5KR7m3ghIf,whole_photo0,30.296398401260376,37.57201957702637,photo,{}
+5KR7m3ghIf,whole_photo0,37.57212066650391,41.71353650093079,taking photo,{}
+5KR7m3ghIf,whole_photo0,41.71353650093079,49.78886914253235,eval photo,{}
+5KR7m3ghIf,whole_photo0,49.78886914253235,54.13378119468689,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+5KR7m3ghIf,whole_photo0,54.13378119468689,61.42004871368408,shutter rests,{'msg': 'I will rest and wait for you here.'}

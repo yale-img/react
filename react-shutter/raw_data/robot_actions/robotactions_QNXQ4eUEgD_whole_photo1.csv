@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+QNXQ4eUEgD,whole_photo1,6.213287591934204,11.001110553741457,follow,{}
+QNXQ4eUEgD,whole_photo1,13.071382284164429,18.092846155166622,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+QNXQ4eUEgD,whole_photo1,20.167389154434204,25.56085848808289,joke,{'msg': 'What do you call a sad robot? A woe-bot.'}
+QNXQ4eUEgD,whole_photo1,27.62984037399292,33.02481770515442,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+QNXQ4eUEgD,whole_photo1,35.312941789627075,43.34888648986816,photo,{}
+QNXQ4eUEgD,whole_photo1,43.349175214767456,46.885403871536255,taking photo,{}
+QNXQ4eUEgD,whole_photo1,46.885403871536255,52.90491437911987,eval photo,{}
+QNXQ4eUEgD,whole_photo1,52.90491437911987,57.301876068115234,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+QNXQ4eUEgD,whole_photo1,57.301876068115234,64.99126100540161,shutter rests,{'msg': 'I will rest and wait for you here.'}

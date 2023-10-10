@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+ZiUxwDwSSI,photo_photo2,7.478232383728027,15.53180766105652,joke,{'msg': 'Why was the camera so pumped for New Year? He was finally going to reach his resolution.'}
+ZiUxwDwSSI,photo_photo2,17.594202995300293,22.755404949188232,follow,{}
+ZiUxwDwSSI,photo_photo2,24.85419225692749,27.95372557640076,relax,"{'msg': ""Relax, I won't judge.""}"
+ZiUxwDwSSI,photo_photo2,30.018648862838745,38.89034485816956,joke,{'msg': 'Why was the fish picked as the lead photographer for the camera campaign? He had a great fish eye lens.'}
+ZiUxwDwSSI,photo_photo2,40.99160528182984,48.03097295761109,photo,{}
+ZiUxwDwSSI,photo_photo2,48.03132033348084,51.95093560218811,taking photo,{}
+ZiUxwDwSSI,photo_photo2,51.95093560218811,58.58540773391724,eval photo,{}
+ZiUxwDwSSI,photo_photo2,58.58540773391724,67.50279545783997,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+ZiUxwDwSSI,photo_photo2,67.50279545783997,75.14418053627014,shutter rests,{'msg': 'I will rest and wait for you here.'}

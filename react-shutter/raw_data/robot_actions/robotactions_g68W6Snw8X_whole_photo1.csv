@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+g68W6Snw8X,whole_photo1,6.439335823059082,11.6571147441864,follow,{}
+g68W6Snw8X,whole_photo1,13.72863268852234,20.15426802635193,joke,{'msg': 'Why did the robot go on vacation? To recharge her batteries.'}
+g68W6Snw8X,whole_photo1,22.22737455368042,27.23029351234436,follow,{}
+g68W6Snw8X,whole_photo1,29.29967951774597,34.4722363948822,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+g68W6Snw8X,whole_photo1,36.54177141189575,45.41146111488342,photo,{}
+g68W6Snw8X,whole_photo1,45.41577887535095,47.78563475608826,taking photo,{}
+g68W6Snw8X,whole_photo1,47.78563475608826,53.223998069763184,eval photo,{}
+g68W6Snw8X,whole_photo1,53.223998069763184,57.79419422149658,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+g68W6Snw8X,whole_photo1,57.79419422149658,65.25862383842468,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+6iwG3mkWiS,photo_photo1,6.610947370529175,16.103504419326782,joke,"{'msg': ""Why does nobody like photographers that always keep their camera light on? Everyone thinks that they're too flashy.""}"
+6iwG3mkWiS,photo_photo1,18.197781085968018,21.08800721168518,look_at_button,{}
+6iwG3mkWiS,photo_photo1,23.15119290351868,30.375264644622803,joke,{'msg': 'What do you call it when two robots eat in a restaurant together? A dinner data.'}
+6iwG3mkWiS,photo_photo1,32.440810203552246,35.12071418762207,resting,{}
+6iwG3mkWiS,photo_photo1,37.226741552352905,45.71741342544556,photo,{}
+6iwG3mkWiS,photo_photo1,45.717936992645264,50.14654111862183,taking photo,{}
+6iwG3mkWiS,photo_photo1,50.14654111862183,58.24309778213501,eval photo,{}
+6iwG3mkWiS,photo_photo1,58.24309778213501,67.32274770736694,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+6iwG3mkWiS,photo_photo1,67.32274770736694,74.54942917823792,shutter rests,{'msg': 'I will rest and wait for you here.'}

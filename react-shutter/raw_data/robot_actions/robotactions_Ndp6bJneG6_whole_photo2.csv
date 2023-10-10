@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+Ndp6bJneG6,whole_photo2,7.070264101028442,13.131815433502195,joke,{'msg': 'How do robots eat salsa? With micro-chips.'}
+Ndp6bJneG6,whole_photo2,15.204458713531494,18.111610412597656,look_at_button,{}
+Ndp6bJneG6,whole_photo2,20.22623920440674,25.408840894699097,follow,{}
+Ndp6bJneG6,whole_photo2,27.484891176223755,37.92169404029846,joke,{'msg': 'Why was the camera not taking any photos of the lamp posts? His director had told him not to keep any highlights in his photo.'}
+Ndp6bJneG6,whole_photo2,39.99194121360779,46.889718532562256,photo,{}
+Ndp6bJneG6,whole_photo2,46.90170192718506,51.04702830314636,taking photo,{}
+Ndp6bJneG6,whole_photo2,51.04702830314636,57.48368525505066,eval photo,{}
+Ndp6bJneG6,whole_photo2,57.48368525505066,61.42283463478088,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+Ndp6bJneG6,whole_photo2,61.42283463478088,69.08666944503784,shutter rests,{'msg': 'I will rest and wait for you here.'}

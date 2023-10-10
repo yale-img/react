@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+Py9ArjstRu,photo_photo0,-0.0036900043487548,8.967419147491455,joke,{'msg': 'What did the photographer say to his wife before they were married? I can really picture us together.'}
+Py9ArjstRu,photo_photo0,11.549983024597168,15.912107944488524,follow,{}
+Py9ArjstRu,photo_photo0,17.976242065429688,20.244754552841187,smile,{'msg': 'Smile!'}
+Py9ArjstRu,photo_photo0,22.304581880569454,27.450613260269165,follow,{}
+Py9ArjstRu,photo_photo0,29.50993824005127,38.01832270622253,photo,{}
+Py9ArjstRu,photo_photo0,38.018646240234375,41.93541145324707,taking photo,{}
+Py9ArjstRu,photo_photo0,41.93541145324707,48.58134722709656,eval photo,{}
+Py9ArjstRu,photo_photo0,48.58134722709656,57.905760526657104,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+Py9ArjstRu,photo_photo0,57.905760526657104,65.5239417552948,shutter rests,{'msg': 'I will rest and wait for you here.'}

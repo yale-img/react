@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+cbTr6DHh5v,whole_photo1,5.816390037536621,9.55007791519165,relax,"{'msg': ""Relax, I won't judge.""}"
+cbTr6DHh5v,whole_photo1,11.238852739334106,13.721436500549316,mid,{}
+cbTr6DHh5v,whole_photo1,15.790878295898438,25.354328870773315,joke,"{'msg': ""Why does nobody like photographers that always keep their camera light on? Everyone thinks that they're too flashy.""}"
+cbTr6DHh5v,whole_photo1,27.426435708999637,32.607667446136475,follow,{}
+cbTr6DHh5v,whole_photo1,34.67753219604492,41.99184703826904,photo,{}
+cbTr6DHh5v,whole_photo1,41.99217176437378,46.57116436958313,taking photo,{}
+cbTr6DHh5v,whole_photo1,46.57116436958313,53.04189157485962,eval photo,{}
+cbTr6DHh5v,whole_photo1,53.04189157485962,57.39983367919922,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+cbTr6DHh5v,whole_photo1,57.39983367919922,65.54146409034729,shutter rests,{'msg': 'I will rest and wait for you here.'}

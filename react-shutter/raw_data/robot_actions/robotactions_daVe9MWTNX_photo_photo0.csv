@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+daVe9MWTNX,photo_photo0,-0.0035474300384521,5.577282428741455,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+daVe9MWTNX,photo_photo0,7.640188694000244,12.829818964004517,follow,{}
+daVe9MWTNX,photo_photo0,14.89005208015442,16.95459532737732,smile,{'msg': 'Look happy.'}
+daVe9MWTNX,photo_photo0,19.01820278167725,27.264698028564453,joke,"{'msg': 'I dated a robot for a while, but we broke up. He was just too high maintenance.'}"
+daVe9MWTNX,photo_photo0,29.327266693115234,36.79920339584351,photo,{}
+daVe9MWTNX,photo_photo0,36.79957342147827,41.33371138572693,taking photo,{}
+daVe9MWTNX,photo_photo0,41.33371138572693,47.14961528778076,eval photo,{}
+daVe9MWTNX,photo_photo0,47.14961528778076,56.89731955528259,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+daVe9MWTNX,photo_photo0,56.89731955528259,64.92100954055786,shutter rests,{'msg': 'I will rest and wait for you here.'}

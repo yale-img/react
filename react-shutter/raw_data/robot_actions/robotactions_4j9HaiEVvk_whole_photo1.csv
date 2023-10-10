@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+4j9HaiEVvk,whole_photo1,6.059337139129639,7.096880197525024,resting,{}
+4j9HaiEVvk,whole_photo1,9.169901847839355,11.25438904762268,smile,{'msg': 'Smile!'}
+4j9HaiEVvk,whole_photo1,13.323508262634276,16.277903079986572,look_at_button,{}
+4j9HaiEVvk,whole_photo1,18.357457160949707,23.75444459915161,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+4j9HaiEVvk,whole_photo1,26.06037473678589,32.30591607093811,photo,{}
+4j9HaiEVvk,whole_photo1,32.3061318397522,37.49208188056946,taking photo,{}
+4j9HaiEVvk,whole_photo1,37.49208188056946,42.103241205215454,eval photo,{}
+4j9HaiEVvk,whole_photo1,42.103241205215454,46.25240850448608,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+4j9HaiEVvk,whole_photo1,46.25240850448608,54.82000160217285,shutter rests,{'msg': 'I will rest and wait for you here.'}

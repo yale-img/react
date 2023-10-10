@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xta77gt82x,photo_photo0,-0.000356912612915,5.144613981246948,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+xta77gt82x,photo_photo0,7.204397678375244,12.360327959060667,follow,{}
+xta77gt82x,photo_photo0,14.420802116394045,23.940274238586422,joke,{'msg': 'Why should you never try to start an argument with your child on picture day? They are not in the right frame of mind.'}
+xta77gt82x,photo_photo0,26.00150203704834,31.15604043006897,follow,{}
+xta77gt82x,photo_photo0,33.246596813201904,42.69971013069153,photo,{}
+xta77gt82x,photo_photo0,42.72738552093506,46.146026611328125,taking photo,{}
+xta77gt82x,photo_photo0,46.146026611328125,53.57465052604675,eval photo,{}
+xta77gt82x,photo_photo0,53.57465052604675,62.69376611709595,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xta77gt82x,photo_photo0,62.69376611709595,70.36914396286011,shutter rests,{'msg': 'I will rest and wait for you here.'}

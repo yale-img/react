@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+2L50Nny5Z5,whole_photo0,-0.0034947395324707,10.055288791656494,joke,{'msg': 'Why was the camera so happy after coming out of the hospital? The doctors were finally able to stabilize his condition.'}
+2L50Nny5Z5,whole_photo0,11.650377988815308,16.831247329711914,follow,{}
+2L50Nny5Z5,whole_photo0,18.90086579322815,21.178942918777462,look_at_button,{}
+2L50Nny5Z5,whole_photo0,23.285012245178223,25.15700936317444,smile,{'msg': 'Smile!'}
+2L50Nny5Z5,whole_photo0,27.22578859329224,34.351948499679565,photo,{}
+2L50Nny5Z5,whole_photo0,34.3526566028595,40.0058228969574,taking photo,{}
+2L50Nny5Z5,whole_photo0,40.0058228969574,45.963889837265015,eval photo,{}
+2L50Nny5Z5,whole_photo0,45.963889837265015,50.18449020385742,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+2L50Nny5Z5,whole_photo0,50.18449020385742,58.95310354232788,shutter rests,{'msg': 'I will rest and wait for you here.'}

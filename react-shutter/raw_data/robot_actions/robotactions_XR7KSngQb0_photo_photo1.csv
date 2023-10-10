@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+XR7KSngQb0,photo_photo1,6.253784418106079,14.516138076782228,joke,"{'msg': ""Why is it okay to make embarrassing jokes about your camera? They'll all disappear in a flash.""}"
+XR7KSngQb0,photo_photo1,16.577939987182617,21.74473810195923,follow,{}
+XR7KSngQb0,photo_photo1,24.424192190170288,27.36735677719116,up,{}
+XR7KSngQb0,photo_photo1,29.432631969451904,31.923603057861328,smile,{'msg': 'Say cheese.'}
+XR7KSngQb0,photo_photo1,33.984766721725464,42.29545259475708,photo,{}
+XR7KSngQb0,photo_photo1,42.29610753059387,46.43056225776672,taking photo,{}
+XR7KSngQb0,photo_photo1,46.43056225776672,52.44115161895752,eval photo,{}
+XR7KSngQb0,photo_photo1,52.44115161895752,61.11180520057678,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+XR7KSngQb0,photo_photo1,61.11180520057678,69.19299411773682,shutter rests,{'msg': 'I will rest and wait for you here.'}

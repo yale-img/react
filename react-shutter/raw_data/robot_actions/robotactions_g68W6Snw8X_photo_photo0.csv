@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+g68W6Snw8X,photo_photo0,-0.0031075477600097,6.602879524230957,joke,{'msg': 'Why did the robot chicken cross the road? He was programmed to.'}
+g68W6Snw8X,photo_photo0,8.697550773620605,11.1770658493042,look_at_button,{}
+g68W6Snw8X,photo_photo0,13.239667177200316,19.83865976333618,joke,{'msg': 'Why did the robot go back to school? Her skills were a little rusty.'}
+g68W6Snw8X,photo_photo0,21.90272331237793,24.38055992126465,mid,{}
+g68W6Snw8X,photo_photo0,26.441534996032715,35.16062378883362,photo,{}
+g68W6Snw8X,photo_photo0,35.16089940071106,39.69938898086548,taking photo,{}
+g68W6Snw8X,photo_photo0,39.69938898086548,45.10054874420166,eval photo,{}
+g68W6Snw8X,photo_photo0,45.10054874420166,54.18522620201111,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+g68W6Snw8X,photo_photo0,54.18522620201111,62.43699502944946,shutter rests,{'msg': 'I will rest and wait for you here.'}

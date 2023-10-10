@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+IECZtUKPMk,whole_photo0,-0.0002408027648925,5.187339782714844,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+IECZtUKPMk,whole_photo0,7.258454322814941,15.731262445449827,up,{}
+IECZtUKPMk,whole_photo0,17.801660776138306,25.921033143997192,joke,"{'msg': 'I dated a robot for a while, but we broke up. He was just too high maintenance.'}"
+IECZtUKPMk,whole_photo0,27.992305994033813,28.828035831451416,up,{}
+IECZtUKPMk,whole_photo0,30.8974826335907,40.37795162200928,photo,{}
+IECZtUKPMk,whole_photo0,40.38208317756653,43.80639314651489,taking photo,{}
+IECZtUKPMk,whole_photo0,43.80639314651489,51.93234419822693,eval photo,{}
+IECZtUKPMk,whole_photo0,51.93234419822693,56.48788619041443,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+IECZtUKPMk,whole_photo0,56.48788619041443,63.74035501480103,shutter rests,{'msg': 'I will rest and wait for you here.'}

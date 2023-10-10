@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+eUotSssfiD,photo_photo1,6.605351209640503,8.468281269073486,smile,{'msg': 'Look happy.'}
+eUotSssfiD,photo_photo1,10.5703604221344,16.453408241271973,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+eUotSssfiD,photo_photo1,18.416481971740723,22.93601369857788,follow,{}
+eUotSssfiD,photo_photo1,25.00045490264893,33.091148853302,joke,"{'msg': ""Why can't you ever hold photos of light bulbs too close to the sun? Too much exposure.""}"
+eUotSssfiD,photo_photo1,35.152398109436035,43.42924785614014,photo,{}
+eUotSssfiD,photo_photo1,43.4295072555542,47.55928158760071,taking photo,{}
+eUotSssfiD,photo_photo1,47.55928158760071,54.43785524368286,eval photo,{}
+eUotSssfiD,photo_photo1,54.43785524368286,62.49326825141907,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+eUotSssfiD,photo_photo1,62.49326825141907,70.39531207084656,shutter rests,{'msg': 'I will rest and wait for you here.'}

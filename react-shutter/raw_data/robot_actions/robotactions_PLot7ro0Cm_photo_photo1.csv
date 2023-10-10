@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+PLot7ro0Cm,photo_photo1,6.318354368209839,7.657237768173218,resting,{}
+PLot7ro0Cm,photo_photo1,8.92661190032959,13.67957067489624,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+PLot7ro0Cm,photo_photo1,15.847489595413208,23.37829184532165,joke,{'msg': 'Why did the robot have a hard time making friends? He had a real chip on his shoulder.'}
+PLot7ro0Cm,photo_photo1,25.479771614074707,30.640083074569706,follow,{}
+PLot7ro0Cm,photo_photo1,32.704317808151245,39.32488536834717,photo,{}
+PLot7ro0Cm,photo_photo1,39.3251895904541,43.44767069816589,taking photo,{}
+PLot7ro0Cm,photo_photo1,43.44767069816589,49.69671583175659,eval photo,{}
+PLot7ro0Cm,photo_photo1,49.69671583175659,58.15967226028442,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+PLot7ro0Cm,photo_photo1,58.15967226028442,66.04810070991516,shutter rests,{'msg': 'I will rest and wait for you here.'}

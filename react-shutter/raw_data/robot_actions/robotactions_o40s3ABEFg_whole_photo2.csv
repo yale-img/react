@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+o40s3ABEFg,whole_photo2,7.09056568145752,15.999757528305054,joke,{'msg': 'Why was the unpredictable photographer not invited to any event? Everyone thought he was a loose Canon.'}
+o40s3ABEFg,whole_photo2,18.11086630821228,23.28178095817566,follow,{}
+o40s3ABEFg,whole_photo2,25.35814070701599,30.44462847709656,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+o40s3ABEFg,whole_photo2,32.51773428916931,38.9820249080658,joke,{'msg': 'What happens to robots after they go defunct? They rust in peace.'}
+o40s3ABEFg,whole_photo2,41.05038571357727,47.744269132614136,photo,{}
+o40s3ABEFg,whole_photo2,47.74423861503601,52.3123733997345,taking photo,{}
+o40s3ABEFg,whole_photo2,52.3123733997345,59.4045135974884,eval photo,{}
+o40s3ABEFg,whole_photo2,59.4045135974884,63.771615743637085,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+o40s3ABEFg,whole_photo2,63.771615743637085,72.26491165161133,shutter rests,{'msg': 'I will rest and wait for you here.'}

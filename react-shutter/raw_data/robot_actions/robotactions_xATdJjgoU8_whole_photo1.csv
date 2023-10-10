@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xATdJjgoU8,whole_photo1,5.841647624969482,8.448836088180542,smile,{'msg': 'Smile!'}
+xATdJjgoU8,whole_photo1,9.78765869140625,11.034374952316284,resting,{}
+xATdJjgoU8,whole_photo1,13.106621265411375,18.31639528274536,follow,{}
+xATdJjgoU8,whole_photo1,20.38916063308716,28.463873386383057,joke,{'msg': 'Why did the robot have a hard time making friends? He had a real chip on his shoulder.'}
+xATdJjgoU8,whole_photo1,30.534390687942505,39.0225293636322,photo,{}
+xATdJjgoU8,whole_photo1,39.02452278137207,43.04028105735779,taking photo,{}
+xATdJjgoU8,whole_photo1,43.04028105735779,49.26570224761963,eval photo,{}
+xATdJjgoU8,whole_photo1,49.26570224761963,53.87610912322998,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xATdJjgoU8,whole_photo1,53.87610912322998,61.75128960609436,shutter rests,{'msg': 'I will rest and wait for you here.'}

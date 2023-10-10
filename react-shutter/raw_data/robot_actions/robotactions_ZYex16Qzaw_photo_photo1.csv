@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+ZYex16Qzaw,photo_photo1,6.242417097091675,11.400245904922484,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+ZYex16Qzaw,photo_photo1,13.467084169387816,18.43445110321045,joke,{'msg': 'What do robots wear in winter? Re-boots.'}
+ZYex16Qzaw,photo_photo1,20.496724367141724,23.848244428634644,relax,"{'msg': ""Relax, I won't judge.""}"
+ZYex16Qzaw,photo_photo1,25.910266876220703,31.07211947441101,follow,{}
+ZYex16Qzaw,photo_photo1,33.13728046417236,41.203693151474,photo,{}
+ZYex16Qzaw,photo_photo1,41.20433759689331,45.783486127853394,taking photo,{}
+ZYex16Qzaw,photo_photo1,45.783486127853394,51.97697591781616,eval photo,{}
+ZYex16Qzaw,photo_photo1,51.97697591781616,60.91174650192261,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+ZYex16Qzaw,photo_photo1,60.91174650192261,69.17618870735168,shutter rests,{'msg': 'I will rest and wait for you here.'}

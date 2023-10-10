@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+nHJVhmmO1Y,photo_photo2,6.651876926422119,11.801050186157228,perturbation,"{'horizontal': 0.0, 'vertical': 0.39269908169872414}"
+nHJVhmmO1Y,photo_photo2,13.86203122138977,20.614659547805783,joke,{'msg': 'Why do robots make bad teachers? They just drone on and on.'}
+nHJVhmmO1Y,photo_photo2,22.72232341766357,25.61683964729309,relax,"{'msg': ""Relax, I won't judge.""}"
+nHJVhmmO1Y,photo_photo2,27.682718753814697,32.84576725959778,follow,{}
+nHJVhmmO1Y,photo_photo2,34.907585859298706,43.15350151062012,photo,{}
+nHJVhmmO1Y,photo_photo2,43.15478610992432,47.502870082855225,taking photo,{}
+nHJVhmmO1Y,photo_photo2,47.502870082855225,53.08426570892334,eval photo,{}
+nHJVhmmO1Y,photo_photo2,53.08426570892334,61.8801543712616,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+nHJVhmmO1Y,photo_photo2,61.8801543712616,70.23343992233276,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+TVBrGpT534,photo_photo1,6.199887037277222,11.399667263031006,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+TVBrGpT534,photo_photo1,13.648576021194458,16.967164993286133,up,{}
+TVBrGpT534,photo_photo1,19.024460792541504,25.64271306991577,joke,{'msg': 'Why did the robot chicken cross the road? He was programmed to.'}
+TVBrGpT534,photo_photo1,27.703229188919067,30.838969230651852,look_at_button,{}
+TVBrGpT534,photo_photo1,32.89786410331726,41.168094635009766,photo,{}
+TVBrGpT534,photo_photo1,41.16912388801575,45.93131971359253,taking photo,{}
+TVBrGpT534,photo_photo1,45.93131971359253,52.16975998878479,eval photo,{}
+TVBrGpT534,photo_photo1,52.16975998878479,60.84688353538513,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+TVBrGpT534,photo_photo1,60.84688353538513,68.32782506942749,shutter rests,{'msg': 'I will rest and wait for you here.'}

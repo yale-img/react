@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+DB3l4IZm3S,photo_photo0,-0.0003585815429687,6.2220377922058105,joke,{'msg': 'What do you call a robot which drives a car? A road-bot.'}
+DB3l4IZm3S,photo_photo0,8.281071662902832,10.54436731338501,smile,{'msg': 'Look happy.'}
+DB3l4IZm3S,photo_photo0,12.19636082649231,13.23445749282837,mid,{}
+DB3l4IZm3S,photo_photo0,15.2978355884552,22.354210376739506,joke,{'msg': 'Why would a farmer make a good photographer? They know how to handle the crop.'}
+DB3l4IZm3S,photo_photo0,24.415574550628666,32.872573375701904,photo,{}
+DB3l4IZm3S,photo_photo0,32.88718867301941,37.4197142124176,taking photo,{}
+DB3l4IZm3S,photo_photo0,37.4197142124176,44.671936988830566,eval photo,{}
+DB3l4IZm3S,photo_photo0,44.671936988830566,54.636308431625366,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+DB3l4IZm3S,photo_photo0,54.636308431625366,62.44109034538269,shutter rests,{'msg': 'I will rest and wait for you here.'}

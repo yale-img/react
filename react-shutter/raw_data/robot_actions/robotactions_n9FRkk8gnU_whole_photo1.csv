@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+n9FRkk8gnU,whole_photo1,6.430153608322144,12.242077350616457,joke,{'msg': 'Where do robots sit? On their ro-bottoms.'}
+n9FRkk8gnU,whole_photo1,14.447352409362791,17.221330642700195,smile,{'msg': 'Say cheese.'}
+n9FRkk8gnU,whole_photo1,18.468079566955566,23.641372442245483,perturbation,"{'horizontal': 0.0, 'vertical': -0.39269908169872414}"
+n9FRkk8gnU,whole_photo1,25.71404194831848,30.735580444335938,follow,{}
+n9FRkk8gnU,whole_photo1,32.80588388442993,39.652525186538696,photo,{}
+n9FRkk8gnU,whole_photo1,39.65283513069153,44.28219747543335,taking photo,{}
+n9FRkk8gnU,whole_photo1,44.28219747543335,51.65731382369995,eval photo,{}
+n9FRkk8gnU,whole_photo1,51.65731382369995,55.85326433181763,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+n9FRkk8gnU,whole_photo1,55.85326433181763,63.52433252334595,shutter rests,{'msg': 'I will rest and wait for you here.'}

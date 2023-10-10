@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+nHJVhmmO1Y,photo_photo0,-0.0005495548248291,4.354702472686768,follow,{}
+nHJVhmmO1Y,photo_photo0,6.4174644947052,11.78218698501587,joke,"{'msg': ""Why did the robot get married? He couldn't resistor.""}"
+nHJVhmmO1Y,photo_photo0,13.840473175048828,16.317286014556885,resting,{}
+nHJVhmmO1Y,photo_photo0,18.37508273124695,23.981867790222168,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+nHJVhmmO1Y,photo_photo0,26.04620885848999,34.30992317199707,photo,{}
+nHJVhmmO1Y,photo_photo0,34.310099601745605,38.27286505699158,taking photo,{}
+nHJVhmmO1Y,photo_photo0,38.27286505699158,45.9490978717804,eval photo,{}
+nHJVhmmO1Y,photo_photo0,45.9490978717804,54.86327290534973,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+nHJVhmmO1Y,photo_photo0,54.86327290534973,61.78878664970398,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+pbxnfLcsMC,photo_photo2,7.242122173309326,12.240618467330933,joke,{'msg': 'What do you call a sad robot? A woe-bot.'}
+pbxnfLcsMC,photo_photo2,14.30462908744812,19.460822105407715,perturbation,"{'horizontal': -0.39269908169872414, 'vertical': 0.0}"
+pbxnfLcsMC,photo_photo2,21.522735595703125,27.711588621139526,joke,{'msg': 'What kind of robot lives in Alaska? Snow-bots.'}
+pbxnfLcsMC,photo_photo2,29.776553630828857,34.58748435974121,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+pbxnfLcsMC,photo_photo2,36.652087450027466,44.31175184249878,photo,{}
+pbxnfLcsMC,photo_photo2,44.3120391368866,48.4990770816803,taking photo,{}
+pbxnfLcsMC,photo_photo2,48.4990770816803,53.26267099380493,eval photo,{}
+pbxnfLcsMC,photo_photo2,53.26267099380493,62.343199014663696,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+pbxnfLcsMC,photo_photo2,62.343199014663696,70.65598630905151,shutter rests,{'msg': 'I will rest and wait for you here.'}

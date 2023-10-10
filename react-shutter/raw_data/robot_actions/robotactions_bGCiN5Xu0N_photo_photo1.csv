@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+bGCiN5Xu0N,photo_photo1,5.839866876602173,9.966454267501833,up,{}
+bGCiN5Xu0N,photo_photo1,12.030736446380615,22.753790140151978,joke,{'msg': 'Why was the camera not taking any photos of the lamp posts? His director had told him not to keep any highlights in his photo.'}
+bGCiN5Xu0N,photo_photo1,24.86018681526184,30.00856137275696,follow,{}
+bGCiN5Xu0N,photo_photo1,32.06841540336609,34.54878306388855,resting,{}
+bGCiN5Xu0N,photo_photo1,36.613783836364746,45.141496419906616,photo,{}
+bGCiN5Xu0N,photo_photo1,45.14176082611084,49.69284796714783,taking photo,{}
+bGCiN5Xu0N,photo_photo1,49.69284796714783,55.27313995361328,eval photo,{}
+bGCiN5Xu0N,photo_photo1,55.27313995361328,63.98072242736816,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+bGCiN5Xu0N,photo_photo1,63.98072242736816,72.24595999717712,shutter rests,{'msg': 'I will rest and wait for you here.'}

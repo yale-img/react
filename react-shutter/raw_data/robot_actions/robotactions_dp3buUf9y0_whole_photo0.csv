@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+dp3buUf9y0,whole_photo0,-0.0004372596740722,1.03959059715271,mid,{}
+dp3buUf9y0,whole_photo0,3.737637519836426,8.886260509490967,relax,"{'msg': ""No worries. I'm just taking a photo.""}"
+dp3buUf9y0,whole_photo0,10.1937255859375,15.58736801147461,joke,{'msg': 'Where do robots sit? On their ro-bottoms.'}
+dp3buUf9y0,whole_photo0,17.688745975494385,20.17708158493042,resting,{}
+dp3buUf9y0,whole_photo0,22.248611211776733,31.00526452064514,photo,{}
+dp3buUf9y0,whole_photo0,31.0054132938385,35.145689725875854,taking photo,{}
+dp3buUf9y0,whole_photo0,35.145689725875854,40.53808689117432,eval photo,{}
+dp3buUf9y0,whole_photo0,40.53808689117432,45.52175879478455,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+dp3buUf9y0,whole_photo0,45.52175879478455,53.52398943901062,shutter rests,{'msg': 'I will rest and wait for you here.'}

@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+xta77gt82x,photo_photo1,6.248669147491455,11.408207654953005,perturbation,"{'horizontal': 0.39269908169872414, 'vertical': 0.0}"
+xta77gt82x,photo_photo1,13.469807863235474,15.948153495788574,smile,{'msg': 'Say cheese.'}
+xta77gt82x,photo_photo1,18.013157844543457,26.504964351654053,joke,{'msg': 'What did the photographer say to his wife before they were married? I can really picture us together.'}
+xta77gt82x,photo_photo1,28.567185401916504,33.71824264526367,follow,{}
+xta77gt82x,photo_photo1,35.77928709983826,43.657917737960815,photo,{}
+xta77gt82x,photo_photo1,43.65842127799988,47.57610106468201,taking photo,{}
+xta77gt82x,photo_photo1,47.57610106468201,51.51622796058655,eval photo,{}
+xta77gt82x,photo_photo1,51.51622796058655,60.15312743186951,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+xta77gt82x,photo_photo1,60.15312743186951,67.57831358909607,shutter rests,{'msg': 'I will rest and wait for you here.'}

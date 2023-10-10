@@ -1,0 +1,10 @@
+id,photo file,start_time,stop_time,high_level_action,action_info
+moRSMiJDRW,photo_photo2,7.504544019699097,12.662375926971436,follow,{}
+moRSMiJDRW,photo_photo2,14.776569366455078,21.59656524658203,joke,{'msg': 'Why did the robot take a train up the mountain? He thought it would be a hard drive.'}
+moRSMiJDRW,photo_photo2,23.6651132106781,28.826632976531982,follow,{}
+moRSMiJDRW,photo_photo2,30.92390775680542,33.42092800140381,look_at_button,{}
+moRSMiJDRW,photo_photo2,35.48396301269531,42.10411334037781,photo,{}
+moRSMiJDRW,photo_photo2,42.10425114631653,47.06670689582825,taking photo,{}
+moRSMiJDRW,photo_photo2,47.06670689582825,53.51491808891296,eval photo,{}
+moRSMiJDRW,photo_photo2,53.51491808891296,62.87218737602234,survey utterance,{'msg': 'Please complete the survey questions in the next page.'}
+moRSMiJDRW,photo_photo2,62.87218737602234,69.68353509902954,shutter rests,{'msg': 'I will rest and wait for you here.'}
