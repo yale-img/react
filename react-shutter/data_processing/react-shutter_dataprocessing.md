@@ -22,4 +22,4 @@ Run file from `data_processing` folder:
 ```
 cd react/react-shutter/data_processing
 python3 add_actions_and_summarize_participants.py
-```
+``` 
