@@ -134,5 +134,7 @@ The `facial_features` folder contains 72 folders, one for each participant. Each
 These CSVs contain the output for each frame after running the image through [OpenFace 2.0](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Output-Format).
 
 The columns in these CSVs are:
+- `id`: Participant ID
+- `game file`: `g[g#]` from file name
 - `frame`: Game frame number
 - columns from OpenFace analysis, as described in the [OpenFace 2.0 wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Output-Format).
