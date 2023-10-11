@@ -5,7 +5,7 @@ Recent work in Human-Robot Interaction (HRI) has shown that robots can leverage 
 We contribute the Reactions and EvaluAtive feedbaCk over Time (REACT) database. REACT consists of two datasets that contain observations of humans, robots and task-related data during human-robot interactions. The dataset is organized as follows:
 
 * [REACT-Nao](react-nao)
-  * [data](react-nao/data/REACT-Shutter_Data.md)
+  * [data](react-nao/data/REACT-Nao_Data.md)
   * [data_processing](react-nao/data_processing)
   * [example_analysis](react-nao/example_analysis) 
 * [REACT-Shutter](react-shutter)
