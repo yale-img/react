@@ -1,7 +1,7 @@
 # REACT-Shutter: Data Processing
 
 ## Table of Contents
-This files describes the data provided in the `data` folder of the REACT-Shutter dataset.
+This file describes the data provided in the `data` folder of the REACT-Shutter dataset.
 - [smooth_participants.py](#smooth_participants.py): Smooth individual OpenFace features with a Gaussian window function.
 
 - [add_actions_and_summarize_participants.py](#add_actions_and_summarize_participants.py): Segment frames into action segments and calculate statistics for actions.

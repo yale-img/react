@@ -1,12 +1,12 @@
 # REACT-Nao: Data
 
 ## Table of Contents
-This files describes the data provided in the `data` folder of the REACT-Nao dataset.
+This file describes the data provided in the `data` folder of the REACT-Nao dataset.
 - [react-nao_summary](#react-shutter_summary): Provides additional information about participant and interaction
 - [facial_features](#facial_features): Facial analysis of images captured during interaction
 - [game_frames](#game_frames): Frame-by-frame information for each game
 
-## react-shutter_summary
+## react-nao_summary
 
 ### Participant / interaction information
 `ID`: Unique participant ID
