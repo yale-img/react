@@ -4,6 +4,7 @@
 This files describes the data provided in the `data` folder of the REACT-Nao dataset.
 - [react-nao_summary](#react-shutter_summary): Provides additional information about participant and interaction
 - [facial_features](#facial_features): Facial analysis of images captured during interaction
+- [game_frames](#game_frames): Frame-by-frame information for each game
 
 ## react-shutter_summary
 
@@ -138,3 +139,45 @@ The columns in these CSVs are:
 - `game file`: `g[g#]` from file name
 - `frame`: Game frame number
 - columns from OpenFace analysis, as described in the [OpenFace 2.0 wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Output-Format).
+
+## game_frames
+Due to its large size, the `game_frames` data is available on [Google Drive](https://drive.google.com/drive/folders/1khny-bywssPIsTkE7eIA3Ft5ZSzIMXS7?usp=sharing).
+
+72 folders, one for each participant. Each participant folder `PP###` contains 6 CSV files, one for each game. 
+
+The `game_frames` folder contains 72 folders, one for each participant. Each participant folder `PP###` contains 6 json files, one for each game. The files follow the naming convention `gameframes_[id]_g[g#].json`, where:
+- `[id]`: Participant ID
+- `[g#]`: Game number; either `1`, `2`, `3`, `4`, `5`, or `6`.
+
+The json file loads as a dictionary. The keys of this dictionary are string representations of the `frame_number`. The data is another dictionary with `frame` and `action` information.
+- `frame`: The `frame` dictionary has information about the game state at this specific frame of the game.
+
+    |Key|Description |Values |
+    |---|---|---|
+    |`frame_number`|Frame number as rendered in game |Int|
+    |`timestamp`|Clock time of frame|Int|
+    |`player_position` & `ai_position`|x-coordinates of player and ai spaceships|Int|
+    |`player_lives` & `ai_lives`|Number of lives remaining for player and ai spaceships|Int|
+    |`player_score` & `ai_score`|Score at this frame of game (sum was rendered as team score)|Int|
+    |`player_bullets_positions` & `ai_bullets_positions` |Lists for [x,y] position of bullets originating from player and ai spaceships |List of [Float,Float] |
+    |`enemies_left_positions` & `enemies_right_positions`|Lists for [x,y] position of enemies originating on left and right sides of gamescreen |List of [Float,Float]|
+    |`bullets_left_positions` & `bullets_right_positions`|Lists for [x,y] position of bullets originating from left and right enemies |List of [Float,Float]|
+    |`can_shoot`|Based on constraints of game, is ai spaceship allowed to shoot in this frame |Boolean|
+    |`player_last_shot_time` & `ai_last_shot_time`|Clock time of last time player and ai shot|Int|
+    |`player_last_shot_frame` & `ai_last_shot_frame`|Frame number of last frame player and ai shot|Int|
+    |`player_avg_frequency`|Average|Float|
+    |`frame_sent`|Was frame successfully sent over websocket|Boolean|
+    |`player_action`|Action participant ship took in frame (move left, move right, or shoot) |Dictionary: {`left`: Boolean, `right`: Boolean, `shoot`: Boolean, `tried_to_shoot`: Boolean}|
+    |`ai_actual_action`|Action that ai ship took in frame, considering all constraints |Dictionary: {`left`: Boolean, `right`: Boolean, `shoot`: Boolean}|
+    |`ai_received_action`|Action for ai spaceship received from ai's current policy |Dictionary: {`left`: Boolean, `right`: Boolean, `shoot`: Boolean}|
+    |`signal_down` & `signal_up`|Did participant provide negative (down) or positive (up) feedback via keyboard presses |Boolean|
+    |`tried_signal_down` & `tried_signal_up`|Did participant try to give negative (down) or positive (up) feedback via keyboard presses, but was within buffer |Boolean|
+
+
+
+- `action`: The `action` dictionary has information about the action that the robot spaceship's should take based on its current policy.
+    |Key|Description |Values |
+    |---|---|---|
+    |`left`| Did the robot's spaceship policy decide the spaceship should move left? |True / False|
+    | `right`| Did the robot's spaceship policy decide the spaceship should move right?|True / False|
+    | `shoot`| Did the robot's spaceship policy decide the spaceship should shoot upwards? |True / False|
