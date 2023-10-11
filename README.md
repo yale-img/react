@@ -10,7 +10,7 @@ We contribute the Reactions and EvaluAtive feedbaCk over Time (REACT) database. 
   * [example_analysis](react-nao/example_analysis) 
 * [REACT-Shutter](react-shutter)
   * [data](react-shutter/data/REACT-Shutter_Data.md)
-  * [data_processing](react-shutter/data_processing/REACT-Shutter_dataprocessing.md)
+  * [data_processing](react-shutter/data_processing/react-shutter_dataprocessing.md)
   * [example_analysis](react-shutter/example_analysis/react-shutter_paperanalysis.ipynb) 
 
 Please see our paper for additional details.
