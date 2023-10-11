@@ -143,7 +143,7 @@ The columns in these CSVs are:
 ## game_frames
 Due to its large size, the `game_frames` data is available on [Google Drive](https://drive.google.com/drive/folders/1S599DvrA6L-ekYulOChAOBCszQfpUJ3l?usp=sharing)
 
-The `game_frames` folder should be placed in the [react/react-nao/data](react/react-nao/data) folder.
+The `game_frames` folder should be placed in the [react/react-nao/data](/react-nao/data) folder.
 
 The `game_frames` folder contains 72 folders, one for each participant. Each participant folder `PP###` contains 6 json files, one for each game. The files follow the naming convention `gameframes_[id]_g[g#].json`, where:
 - `[id]`: Participant ID
