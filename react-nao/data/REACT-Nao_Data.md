@@ -5,6 +5,7 @@ This file describes the data provided in the `data` folder of the REACT-Nao data
 - [react-nao_summary](#react-shutter_summary): Provides additional information about participant and interaction
 - [facial_features](#facial_features): Facial analysis of images captured during interaction
 - [game_frames](#game_frames): Frame-by-frame information for each game
+- [raw_images](#raw_images): Raw images of participant for each game
 
 ## react-nao_summary
 
@@ -141,7 +142,7 @@ The columns in these CSVs are:
 - columns from OpenFace analysis, as described in the [OpenFace 2.0 wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Output-Format).
 
 ## game_frames
-Due to its large size, the `game_frames` data is available on [Google Drive](https://drive.google.com/drive/folders/1S599DvrA6L-ekYulOChAOBCszQfpUJ3l?usp=sharing)
+Due to its large size, the `game_frames` data is available on a [Dataverse](https://doi.org/10.7910/DVN/RP2SXV).
 
 The `game_frames` folder should be placed in the [react/react-nao/data](/react-nao/data) folder.
 
@@ -181,3 +182,13 @@ The json file loads as a dictionary. The keys of this dictionary are string repr
     |`left`| Did the robot's spaceship policy decide the spaceship should move left? |True / False|
     | `right`| Did the robot's spaceship policy decide the spaceship should move right?|True / False|
     | `shoot`| Did the robot's spaceship policy decide the spaceship should shoot upwards? |True / False|
+
+## raw_images
+Due to their large size, the raw images are available on a [Dataverse](https://doi.org/10.7910/DVN/RP2SXV).
+The `raw_images` folder contains 72 folders, one for each participant. Each participant folder `PP###` contains 6 subfolders, one for each game in `[id]/game_data/recorded_frames/`. The subfolders follow the naming convention: `[id]_voff_m[m#]_g[g#]_t[time]`. Then each subfolder contains the images in `webcam\w_[f#]_m[ts]_cm[ts].jpg`. The folder and files use the noted naming conventions, where:
+- `[id]`: Participant ID
+- `[m#]`: Mode; either `1`, `2`, or `3`.
+- `[g#]`: Game number; either `1`, `2`, `3`, `4`, `5`, or `6`.
+- `[time]`: Time of game start, in YYYY_MM_DD_HH_MM format.
+- `[f#]`: Frame number.
+- `[ts]`: Timestamp of camera image from start of interaction.
