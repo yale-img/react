@@ -13,4 +13,7 @@ We contribute the Reactions and EvaluAtive feedbaCk over Time (REACT) database. 
   * [data_processing](react-shutter/data_processing/react-shutter_dataprocessing.md)
   * [example_analysis](react-shutter/example_analysis/react-shutter_paperanalysis.ipynb) 
 
-Please see our paper for additional details.
+Please see our [paper](https://dl.acm.org/doi/abs/10.1145/3610977.3637480) for additional details.
+
+#### Citation
+Kate Candon, Nicholas C. Georgiou, Helen Zhou, Sidney Richardson, Qiping Zhang, Brian Scassellati, and Marynel Vázquez. 2024. **REACT: Two Datasets for Analyzing Both Human Reactions and Evaluative Feedback to Robots Over Time.** _In Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’24), March 11–14, 2024, Boulder, CO, USA._ ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3610977.3637480
